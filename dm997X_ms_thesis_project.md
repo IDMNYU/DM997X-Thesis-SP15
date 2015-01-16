@@ -11,9 +11,15 @@
 ## THESIS PROJECT
 
 ### Assignment: Project Milestones
-Break down your milestones into actionable tasks using personal kanban.
+Break down your milestones into actionable tasks using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>.
 
     Alpha, Beta, and Gold refer to a project’s life cycle. The specific parameters and expectations of each version will be individually determined in consultation with the professor.
+
+<ul>
+<li>I recommend using post-its so you can move them around
+OR</li>
+<li>Digital Representation of your milestones using <a href="http://kanbanery.com" target="_blank">kanbanery.com</a>.</li>
+</ul>
 
 ### Assignment: Project Alpha
 <strong>Alpha</strong> Version is the testing phase of form and functionality

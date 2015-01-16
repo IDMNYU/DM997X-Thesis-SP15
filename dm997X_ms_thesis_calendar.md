@@ -51,12 +51,7 @@
         <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
         <li>Discuss <a href="http://chrisguillebeau.com/how-to-write-a-dozen-novels-and-hundreds-of-stories" target="_blank">How To Write A Dozen Novels and Hundreds of Stories</a></li>
         <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones</li>
-    <ul>
-    <li>I recommend using post-its so you can move them around
-    OR</li>
-    <li>Digital Representation of your milestones using kanbanery.com. Make deangela@gmail.com a member in viewer role.</li>
-    </ul>
-    Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to setup your <a href="dm4003_thesis_website.md">thesis website</a> on http://sites.bxmc.poly.edu, BEFORE the next class at the latest.
+        <li>Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to connect a database to your <a href="dm4003_thesis_website.md">thesis website</a> on http://sites.bxmc.poly.edu, BEFORE the next class at the latest.</li>
         </ul>
 </td>  
 </tr>
