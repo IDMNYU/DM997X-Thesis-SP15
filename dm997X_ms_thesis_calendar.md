@@ -25,19 +25,19 @@
     <ul>
     <li><strong>Read the syllabus</strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
      <li>Read <a href="http://chrisguillebeau.com/how-to-write-a-dozen-novels-and-hundreds-of-stories" target="_blank">How To Write A Dozen Novels and Hundreds of Stories</a></li>
-     <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield, take notes, and be prepared to discuss</li>
+     <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield (available at the NYU bookstore), take notes, and be prepared to discuss</li>
         <ul>
         <li>About this Book p.1-2</li>
         <li>Orientation: Enemies and Allies p. 3-16</li>
         <li>1 Beginning p. 17-31</li>
         </ul>
-    <li><strong>Read <i>Show Your Work</i></strong> by Austin Kleon and be prepared to discuss</li>
+    <li><strong>Read <i>Show Your Work</i></strong> (available at the NYU bookstore) by Austin Kleon and be prepared to discuss</li>
         <ul>
         <li>2. Think Process, Not Product, p. 30-43</li>
         <li>3. Share Something Small Every Day, p. 44-69</li>
         </ul>
-    <li>Populate a calendar (google, iCal, or non-digital) with due dates for this class</li>
-    <li>By or before Monday Jan 26 at noon, email deangela.duff@nyu.edu a PDF of your responses to the MS Thesis Beginning of Semester Status doc (MS_Thesis_Paper_Preliminaries.doc) found under files on basecamp.</li>
+    <li><strong>Populate a calendar</strong> (google, iCal, or non-digital) with due dates for this class</li>
+    <li>By or before Monday Jan 26 at noon, <strong>email deangela.duff@nyu.edu a PDF of your responses to the MS Thesis Beginning of Semester Status doc</strong> (MS_Thesis_Paper_Preliminaries.doc) found under files on basecamp.</li>
     </ul></td>    
 </tr>
 <tr>

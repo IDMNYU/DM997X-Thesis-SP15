@@ -9,6 +9,7 @@
 ---
 
 ## GENERAL ASSIGNMENTS
+There are other assignments listed on the thesis paper and thesis project pages.
 
 ### MS THESIS BEGINNING OF SEMESTER STATUS DOC
 By or before Monday Jan 26 at noon, email deangela.duff@nyu.edu a PDF of your responses to the MS Thesis Beginning of Semester Status doc (MS_Thesis_Paper_Preliminaries.doc) found under files on basecamp.
@@ -16,9 +17,7 @@ By or before Monday Jan 26 at noon, email deangela.duff@nyu.edu a PDF of your re
 ### DELIVERABLES FOR MS THESIS CATALOG / SUPPORTING FILES 
 You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
 
-Each student will provide their own dropbox link. 
-
-Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) A dropbox link is actually different than sharing an actual dropbox folder.
+Each student will provide their own **dropbox link**. A dropbox link is actually different than sharing an actual *dropbox folder*. Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) 
  
 Create a dropbox link with the following contents:
 * **deliverables for the ms thesis catalog**
