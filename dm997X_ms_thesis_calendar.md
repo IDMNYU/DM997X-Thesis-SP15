@@ -35,8 +35,7 @@
         <ul>
         <li>2. Think Process, Not Product, p. 30-43</li>
         <li>3. Share Something Small Every Day, p. 44-69</li>
-        </ul>
-    <li><strong>Populate a calendar</strong> (google, iCal, or non-digital) with due dates for this class</li>
+        </ul>  
     <li>By or before Monday Jan 26 at noon, <strong>email deangela.duff@nyu.edu a PDF of your responses to the MS Thesis Beginning of Semester Status doc</strong> (MS_Thesis_Paper_Preliminaries.doc) found under files on basecamp.</li>
     </ul></td>    
 </tr>
@@ -52,7 +51,6 @@
         <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
         <li>Discuss <a href="http://chrisguillebeau.com/how-to-write-a-dozen-novels-and-hundreds-of-stories" target="_blank">How To Write A Dozen Novels and Hundreds of Stories</a></li>
         <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones</li>
-        <li>Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to connect a database to your <a href="dm4003_thesis_website.md">thesis website</a> on http://sites.bxmc.poly.edu, BEFORE the next class at the latest.</li>
         </ul>
 </td>  
 </tr>
@@ -60,10 +58,12 @@
     <td>Mon, Feb 02</td>
     <td>
     <ul>
+    <li><strong>Populate a calendar</strong> (google, iCal, or non-digital) with due dates for this class</li>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 1st Draft</li>
     <li>In-class peer critiques</li>
     <li>Group A: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li>Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to connect a database to your <a href="dm4003_thesis_website.md">thesis website</a> on http://sites.bxmc.poly.edu</li>
     </ul>
     </td> 
 </tr>
