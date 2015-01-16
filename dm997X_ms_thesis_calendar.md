@@ -66,7 +66,8 @@
     <ul>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 1st Draft</li>
-    <li>Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li>In-class peer critiques</li>
+    <li>Group A: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
     </ul>
     </td> 
 </tr>
@@ -75,9 +76,10 @@
     <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (to receive 100% of tuition &amp; fees)
     <ul>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline</a></strong> 1st Draft</li>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 2nd Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>
-    <li>Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li>In-class peer critiques</li>
+    <li>Group B: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
     </ul>
     </td> 
 </tr>
@@ -91,7 +93,8 @@
     <ul>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline</a></strong> 2nd Draft</li>
-    <li>Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li>In-class peer critiques</li>
+    <li>Group A: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
     </ul>    
     </td> 
 </tr>
@@ -102,7 +105,8 @@
     <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 2nd Draft</li>
-    <li>Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li>In-class peer critiques</li>
+    <li>Group B: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
     </ul> 
     </td> 
 </tr>
@@ -112,7 +116,8 @@
     <ul>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 2nd Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 2nd Draft</li>  
-    <li>Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li>In-class peer critiques</li>
+    <li>Group A: Individual Meetings <a href="dm997X_ms_thesis_project.md">(Project Alpha)</a> / Personal Kanban / Self Assessment / Project Website Updates</li>
     </ul> 
     </td> 
 </tr>
@@ -120,8 +125,9 @@
     <td>Mon, Mar 09</td>
     <td>
     <ul>
-    
     <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 1st Draft</li> 
+    <li>In-class peer critique</li>
+    <li>Group B: Individual Meetings <a href="dm997X_ms_thesis_project.md">(Project Alpha)</a> / Personal Kanban / Self Assessment / Project Website Updates</li>
     </ul> 
     </td> 
 </tr>
@@ -156,8 +162,8 @@
     <td>Mon, Apr 06</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense (Group A)</a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft (Group A)</li> 
+    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 1st Draft (Group A)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft (Group B)</li> 
     </ul> 
     </td> 
 </tr>
@@ -165,7 +171,7 @@
     <td>Mon, Apr 13</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense (Group B)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 1st Draft (Group B)</a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 2nd Draft (Group A)</li> 
     </ul> 
     </td> 
@@ -192,7 +198,7 @@
     <td>Mon, May 04</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense (Group A)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 2nd Draft (Group A)</a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 1st Draft</li> 
     </ul>  
     </td> 
@@ -201,7 +207,7 @@
     <td>Mon, May 11</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense (Group B)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 2nd Draft (Group B)</a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 2nd Draft</li> 
     </ul>      
     </td> 

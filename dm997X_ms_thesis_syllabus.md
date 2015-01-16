@@ -163,7 +163,7 @@ Your fellow graduate students are considered to be peers in the discussion and d
 ##### Quantitative Grading Overview
 
 * 50% Thesis Defense (which includes Thesis Paper and Thesis Project)
-* 10% Weekly Progress: personal kanban (project milestones), calendar, self assessment rubric  & [thesis website] (dm997X_ms_thesis_thesis_website.md)
+* 15% Weekly Progress: personal kanban (project milestones), calendar, self assessment rubric & [thesis website] (dm997X_ms_thesis_thesis_website.md)
 * 10% Mock Thesis Defenses
 * 10% Project Critique Presentations
 * 2.5% Letter to Next Cohort
@@ -305,21 +305,23 @@ http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_
 
 
 
-
-* [Purdue's OWL: MLA Formatting and Style Guide](https://owl.english.purdue.edu/owl/resource/747/01)
-
-* [Tips and Examples for Writing Thesis Statements] (https://owl.english.purdue.edu/owl/resource/587/1/)
-
-* [Purdue's OWL: Starting The Writing Process] (https://owl.english.purdue.edu/owl/resource/544/02/)
-
-* [Purdue's OWL: Why and How To Create a Useful Outline] (https://owl.english.purdue.edu/owl/resource/544/02/)
-
-* [Purdue's OWL: Proofreading] (https://owl.english.purdue.edu/owl/resource/561/1/)
-* [Chicago Manual of Style] (http://www.chicagomanualofstyle.org/home.html)
 * [Purdue Writing Lab] (http://owl.english.purdue.edu/owl/)
+  * [Purdue's OWL: MLA Formatting and Style Guide](https://owl.english.purdue.edu/owl/resource/747/01)
+
+  * [Tips and Examples for Writing Thesis Statements] (https://owl.english.purdue.edu/owl/resource/587/1/)
+
+  * [Purdue's OWL: Starting The Writing Process] (https://owl.english.purdue.edu/owl/resource/544/02/)
+
+  * [Purdue's OWL: Why and How To Create a Useful Outline] (https://owl.english.purdue.edu/owl/resource/544/02/)
+
+  * [Purdue's OWL: Proofreading] (https://owl.english.purdue.edu/owl/resource/561/1/)
+* [Chicago Manual of Style] (http://www.chicagomanualofstyle.org/home.html)
+
 * [Indiana University writing lab] (http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) 
 * [Columbia University writing lab] (http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html) 
 * [Paul Brian's Common Errors in English Usage](http://public.wsu.edu/~brians/errors/errors.html)
+
+* [Bird by Bird: Some Instructions on Writing and Life] (http://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?ie=UTF8&qid=1421432230&sr=8-1&keywords=bird+by+bird) by Anne Lamott
 
 
 ### RECOMMENDED ACADEMIC RESEARCH TOOLS
