@@ -215,7 +215,7 @@
 <tr>
     <td>May 13-19 TBD</td>
     <td><strong><a href="dm997X_ms_thesis_defense.md">Thesis Defenses</a></strong><br>
-    Individual One on ones: Resume, Cover Letter, LinkedIn Profile, and Portfolio Website</td>
+    Individual One on ones: <a href="dm997X_ms_thesis_assignments.md">Resume, Cover Letter, LinkedIn Profile, Letter to Next Cohort, and Portfolio Website</a></td>
 </tr>
 </table>
 

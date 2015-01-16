@@ -296,7 +296,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 ### RECOMMENDED WRITING RESOURCES
 
-http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf
+* [NYU SoE's Thesis guidelines] (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)
 
 * [The Elements of Style Illustrated] (http://www.amazon.com/Elements-Style-Illustrated-William-Strunk/dp/0143112724) by Strunk, White, and Kalman
 
@@ -305,7 +305,6 @@ http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_
 * [Guide to Writing a Masters Thesis] (http://www.kf.vu.lt/dokumentai/Uzsienio%20reikalai/Masters_Thesis_Guide.pdf)
 
 * [How To Write X Number of Words a Day & Not Go Crazy] (http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy)
-
 
 
 * [Purdue Writing Lab] (http://owl.english.purdue.edu/owl/)
