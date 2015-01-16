@@ -106,7 +106,7 @@ The MS Thesis in Digital Media is comprised of four primary components:
 ### THESIS ROLES
 Your thesis is under the guidance of faculty and a community of peers, both inside and outside the university, who play a number of roles:
 
-####Thesis Faculty
+##### Thesis Faculty
 The Thesis faculty is the primary critic and mentor throughout the thesis process. 
 * **Project Advisor**
 You will meet with your Project Advisor at least 2 to 4 times throughout the semester for feedback on your thesis paper, project, and defense presentation. *Document* your meetings with your advisor (date, time, length, and typed notes) on your thesis website.
