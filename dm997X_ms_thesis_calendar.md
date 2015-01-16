@@ -45,7 +45,7 @@
     <td>
         <ul>
         <li>Syllabus Q&amp;A</li>
-        <li>Confirm Project Critique Schedule</li>
+        <li>Confirm Groups A and B</li>
         <li>Create Individual Meeting Order</li>
         <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
         <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
@@ -66,7 +66,7 @@
     <ul>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 1st Draft</li>
-    <li>Individual Meetings / Personal Kanban / Project Website Updates</li>
+    <li>Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
     </ul>
     </td> 
 </tr>
@@ -77,7 +77,7 @@
     <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>
-    <li>Individual Meetings / Personal Kanban / Project Website Updates</li>
+    <li>Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
     </ul>
     </td> 
 </tr>
@@ -91,7 +91,7 @@
     <ul>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline</a></strong> 2nd Draft</li>
-    <li>Individual Meetings / Personal Kanban / Project Website Updates</li>
+    <li>Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
     </ul>    
     </td> 
 </tr>
@@ -102,7 +102,7 @@
     <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 2nd Draft</li>
-    <li>Individual Meetings / Personal Kanban / Project Website Updates</li>
+    <li>Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
     </ul> 
     </td> 
 </tr>
@@ -112,7 +112,7 @@
     <ul>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 2nd Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 2nd Draft</li>  
-    <li>Individual Meetings / Personal Kanban / Project Website Updates</li>
+    <li>Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
     </ul> 
     </td> 
 </tr>
