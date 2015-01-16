@@ -17,7 +17,7 @@ Master's Thesis and Project Guidelines_March2014 version.pdf and the template
 Read [Indiana University's How To Write a Thesis Statement] (http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
 
 ### Assignment: Visual outline
-Read **[Skimming vs. Reading]** (http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Skimming) and **[Order of Writing]** (http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Order) at http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html BEFORE creating your visual outline. Use the figures, graphs, and illustrations you will use in your paper. This visual outline will also be extremely helpful in your project presentations and (mock) thesis defenses.
+Read [Columbia University's Skimming vs. Reading] (http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Skimming) and [Columbia University's Order of Writing] (http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Order) at http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html BEFORE creating your visual outline. Use the figures, graphs, and illustrations you will use in your paper. This visual outline will also be extremely helpful in your project presentations and (mock) thesis defenses.
 
 ### Assignment: Written outline
 Read [Indiana University's Using Outlines] (http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you proofread.
