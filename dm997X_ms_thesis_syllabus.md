@@ -251,11 +251,11 @@ The following books are available for purchase in the NYU library. I highly sugg
 * [Poly's Writing Center] (http://engineering.nyu.edu/academics/support/polytechnic/writing)
 
 
-### RECOMMENDED TIME MANAGEMENT AND PRODUCTIVITY RESOURCES
+### ADDITIONAL RECOMMENDED TIME MANAGEMENT & PRODUCTIVITY RESOURCES BEYOND PERSONAL KANBAN
 
 Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system is a magic cure. A system only works if you use it daily.
 
-^The following books are available for purchase in the NYU library.
+* **^The following books are available for purchase in the NYU library.** *
 
 *The Now Habit*
 
