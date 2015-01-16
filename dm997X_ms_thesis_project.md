@@ -18,7 +18,7 @@ Break down your milestones into actionable tasks using <a href="http://personalk
 <ul>
 <li>I recommend using post-its so you can move them around
 OR</li>
-<li>Digital Representation of your milestones using <a href="http://kanbanery.com" target="_blank">kanbanery.com</a>.</li>
+<li>a digital representation of your milestones using <a href="http://kanbanery.com" target="_blank">kanbanery.com</a>.</li>
 </ul>
 
 ### Assignment: Project Alpha
