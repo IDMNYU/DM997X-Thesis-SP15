@@ -44,6 +44,7 @@
     <td>Mon, Jan 26</td>
     <td>
         <ul>
+        <li>Guest Talk: Eddie Chen, IDM MS '14</li>
         <li>Syllabus Q&amp;A</li>
         <li>Confirm Groups A and B</li>
         <li>Create Individual Meeting Order</li>
@@ -213,7 +214,8 @@
 </tr>
 <tr>
     <td>May 13-19 TBD</td>
-    <td><strong><a href="dm997X_ms_thesis_defense.md">Thesis Defenses</a></strong></td>
+    <td><strong><a href="dm997X_ms_thesis_defense.md">Thesis Defenses</a></strong><br>
+    Individual One on ones: Resume, Cover Letter, LinkedIn Profile, and Portfolio Website</td>
 </tr>
 </table>
 
