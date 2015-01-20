@@ -75,6 +75,12 @@ This class will consist of
 Individual meetings are not optional. They are important and useful. Sometimes
 they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please show professional courtesy and let me know ahead of time.
 
+Discuss group A & B
+
+self-assessment rubric
+
+* In-class peer critiques
+
 **Project Presentations & Mock Thesis Defenses**<br>Project critiques or mock thesis defenses will be held on designated Mondays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
 
      Each presentation will consist of 
@@ -248,7 +254,9 @@ The following books are available for purchase in the NYU library. I highly sugg
 * Analog or Digital Calendar
 * [Personal Kanban] (http://www.personalkanban.com)
 * [RescueTime] (http://rescuetime.com)
+* [Zapier] (http://zapier.com) (optional)
 * [Poly's Writing Center] (http://engineering.nyu.edu/academics/support/polytechnic/writing)
+
 
 
 ### ADDITIONAL RECOMMENDED TIME MANAGEMENT & PRODUCTIVITY RESOURCES BEYOND PERSONAL KANBAN

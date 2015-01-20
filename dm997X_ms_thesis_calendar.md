@@ -24,7 +24,7 @@
     <td>
     <ul>
     <li><strong>Read the syllabus</strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
-     <li>Read <a href="http://chrisguillebeau.com/how-to-write-a-dozen-novels-and-hundreds-of-stories" target="_blank">How To Write A Dozen Novels and Hundreds of Stories</a></li>
+     <li><strong>Read <a href="http://chrisguillebeau.com/how-to-write-a-dozen-novels-and-hundreds-of-stories" target="_blank">How To Write A Dozen Novels and Hundreds of Stories</a></strong></li>
      <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield (available at the NYU bookstore), take notes, and be prepared to discuss</li>
         <ul>
         <li>About this Book p.1-2</li>
