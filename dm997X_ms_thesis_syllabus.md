@@ -229,7 +229,7 @@ Any printed assignments should always contain the following info, be saved as a 
 
 ### ADDITIONAL INFO REGARDING PRINTING
 
-Students, in addition to their regular NYU allotment, also have available to them $5 in printing credits for use at the Dibner Library. Credits are issued by the MAGNET Managers in Rm 809 and must be signed for before the credits can be used. Once signed for, students will be issued a username and password which can be used at any of the printer stations at Dibner Library. Print jobs can be sent to the printer from any computer station at the Librarysee the Library staff for further assistance.
+Students, in addition to their regular NYU allotment, also have available to them $5 in printing credits for use at the Dibner Library. Credits are issued by the MAGNET Managers in Rm 809 and must be signed for before the credits can be used. Once signed for, students will be issued a username and password which can be used at any of the printer stations at Dibner Library. Print jobs can be sent to the printer from any computer station at the Library. See the Library staff for further assistance.
 
 
 ### SOFTWARE REQUIREMENTS

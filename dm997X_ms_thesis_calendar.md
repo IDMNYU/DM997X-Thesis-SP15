@@ -23,7 +23,7 @@
     <td>Before Class Begins</td>
     <td>
     <ul>
-    <li><strong>Read the syllabus</strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
+    <li><strong>Read the <a href="dm997X_ms_thesis_syllabus.md">syllabus</a></strong> and supporting docs on github and be prepared to ask questions on first day of class</li>
      <li><strong>Read <a href="http://chrisguillebeau.com/how-to-write-a-dozen-novels-and-hundreds-of-stories" target="_blank">How To Write A Dozen Novels and Hundreds of Stories</a></strong></li>
      <li><strong>Read <i>Do The Work!</i></strong> by Steven Pressfield (available at the NYU bookstore), take notes, and be prepared to discuss</li>
         <ul>
@@ -36,7 +36,7 @@
         <li>2. Think Process, Not Product, p. 30-43</li>
         <li>3. Share Something Small Every Day, p. 44-69</li>
         </ul>  
-    <li>By or before Monday Jan 26 at noon, <strong>email deangela.duff@nyu.edu a PDF of your responses to the MS Thesis Beginning of Semester Status doc</strong> (MS_Thesis_Paper_Preliminaries.doc) found under files on basecamp.</li>
+    <li>By or before Monday Jan 26 at 5pm, <strong>email deangela.duff@nyu.edu a PDF (firstname_lastname_MS_thesis_paper_preliminaries.pdf) of your responses to the MS Thesis Beginning of Semester Status doc</strong> (MS_Thesis_Paper_Preliminaries.doc) found under files on basecamp.</li>
     </ul></td>    
 </tr>
 <tr>
