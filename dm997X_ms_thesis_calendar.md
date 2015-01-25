@@ -3,7 +3,7 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 
+    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2015 
     Mondays • 7:30-10:20PM • 2MTC MAGNET 805 • 3 credit hrs
 
 ---
@@ -80,7 +80,7 @@
     <td>Mon, Feb 09</td>
     <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (to receive 100% of tuition &amp; fees)
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline</a></strong> 1st Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 2nd Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>
     <li>In-class peer critiques</li>
@@ -97,9 +97,9 @@
     <td>
     <ul>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 1st Draft</li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline</a></strong> 2nd Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 2nd Draft</li>
     <li>In-class peer critiques</li>
-    <li>Group A: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li>Group A: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates / <a href="dm997X_ms_thesis_assignments.md">Resume, Cover Letter, and LinkedIn Profile Drafts</a></li>
     </ul>    
     </td> 
 </tr>
@@ -111,7 +111,7 @@
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 2nd Draft</li>
     <li>In-class peer critiques</li>
-    <li>Group B: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li>Group B: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates / <a href="dm997X_ms_thesis_assignments.md">Resume, Cover Letter, and LinkedIn Profile Drafts</a></li>
     </ul> 
     </td> 
 </tr>
@@ -122,7 +122,7 @@
     <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 2nd Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 2nd Draft</li>  
     <li>In-class peer critiques</li>
-    <li>Group A: Individual Meetings <a href="dm997X_ms_thesis_project.md">(Project Alpha)</a> / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li>Group A: Individual Meetings <a href="dm997X_ms_thesis_project.md">(Project Alpha)</a> / Personal Kanban / Self Assessment / Project Website Updates / <a href="dm997X_ms_thesis_assignments.md">Portfolio Website Drafts</a></li>
     </ul> 
     </td> 
 </tr>
@@ -132,7 +132,7 @@
     <ul>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 1st Draft</li> 
     <li>In-class peer critique</li>
-    <li>Group B: Individual Meetings <a href="dm997X_ms_thesis_project.md">(Project Alpha)</a> / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li>Group B: Individual Meetings <a href="dm997X_ms_thesis_project.md">(Project Alpha)</a> / Personal Kanban / Self Assessment / Project Website Updates / <a href="dm997X_ms_thesis_assignments.md">Portfolio Website Drafts</a></li>
     </ul> 
     </td> 
 </tr>
@@ -195,7 +195,7 @@
     <td>
     <ul>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Gold Presentations (Group B)</a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft (Group A)</li> 
+    <li><strong><a href="dm997X_ms_thesis_assignments.md">Dropbox link of deliverables for the ms thesis catalog</a>, <a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft (Group A)</li> 
     </ul>     
     </td> 
 </tr>
@@ -226,7 +226,7 @@
     <td>
     <ul>
     <li><strong><a href="dm997X_ms_thesis_defense.md">Thesis Defenses</a></strong></li>
-    <li><strong>Exit Interview:</strong> <a href="dm997X_ms_thesis_assignments.md">Resume, Cover Letter, LinkedIn Profile, Letter to Next Cohort, and Portfolio Website</a></li>
+    <li><strong>Exit Interview:</strong> <a href="dm997X_ms_thesis_assignments.md">Dropbox link of all related project files, Resume, Cover Letter, LinkedIn Profile, Letter to Next Cohort, and Portfolio Website</a></li>
     </ul>
     </td>
 </tr>

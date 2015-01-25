@@ -3,7 +3,7 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 
+    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2015
     Mondays • 7:30-10:20PM • 2MTC MAGNET 805 • 3 credit hrs
 
 ---
@@ -13,7 +13,7 @@
 You should have a **dedicated**, thesis website to document the **weekly** progress of your MS Thesis in wordpress on http://sites.bxmc.poly.edu
 * Students are expected to share their progress with the instructor and class using
 their thesis website.
-* You can receive web server space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up an appointment for your web server space
+* You can receive web space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up an appointment for your web space.
 * IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
 * Create a *thesis* folder
 * Install wordpress in this folder
@@ -30,7 +30,7 @@ Spencer Hargiss’ thesis website is a good example, http://www.spencerhargiss.c
   * at least, 1 post per week DUE at noon on Mondays. If it is not posted by noon, you will not receive credit. 
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
   * Project Advisor Meeting Documentation (2-4x)
-  * Milestones / Tasks that have been completed
+  * Milestones / Tasks that have been completed (transcribed from your personal kanban)
   * Include who or what was involved.
   * Include images, illustrations, audio, video, snippets of research, ANNOTATED links, etc. relevant to your thesis. 
   * If you do not do anything for the week, write **I did not work on my thesis this week.**

@@ -3,7 +3,7 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 
+    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2015 
     Mondays • 7:30-10:20PM • 2MTC MAGNET 805 • 3 credit hrs
 
 ---
@@ -11,7 +11,7 @@
 ## THESIS PROJECT
 
 ### Assignment: Project Milestones
-Break down your milestones into actionable tasks using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>.
+Break down your milestones into actionable tasks using <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>. All actionable tasks should start with a verb (i.e. write, call, email, build, collect, etc.).
 
     Alpha, Beta, and Gold refer to a project’s life cycle. The specific parameters and expectations of each version will be individually determined in consultation with the professor.
 

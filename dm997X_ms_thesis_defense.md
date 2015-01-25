@@ -3,7 +3,7 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 
+    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2015 
     Mondays • 7:30-10:20PM • 2MTC MAGNET 805 • 3 credit hrs
 
 ---

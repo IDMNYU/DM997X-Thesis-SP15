@@ -3,7 +3,7 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 
+    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2015 
     Mondays • 7:30-10:20PM • 2MTC MAGNET 805 • 3 credit hrs
     Office hours by appointment or directly before class 
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
@@ -28,7 +28,7 @@
 
 ## Welcome to MS Thesis In Digital Media!
 
-This is the second semester of a two-semester sequence culminating in a thesis defense, a thesis paper, a thesis project, and  thesis website, accomplished through a combination of questioning, researching, building/making, writing, and researching.
+This is the second semester of a two-semester sequence culminating in a thesis defense, a thesis paper, a thesis project, and thesis website, accomplished through a combination of questioning, researching, building/making, writing, and presenting.
 
 
 ### PROGRAM GOALS
@@ -67,9 +67,10 @@ This class will consist of
 * Lecture
 * Group Discussion
 * Individual Meetings
+* In-class Peer Critiques
 * Project Presentations and Critique
 * Mock Thesis Defenses and Critique
-* Thesis Defense 
+* [Thesis Defense] (dm997X_ms_thesis_defense.md) 
 
 **Individual Meetings**<br>The order of our weekly, individual 10 minute status meetings will be determined on the first day of class. Individual meetings will be held after the group critiques. Students who do the group critique will NOT meet for individual meetings on the same day. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
 Individual meetings are not optional. They are important and useful. Sometimes
@@ -79,7 +80,7 @@ Discuss group A & B
 
 self-assessment rubric
 
-* In-class peer critiques
+**In-class peer critiques**<br>While I am meeting with your fellow classmates, it is mandatory that you receive peer critique on whatever you are currently working on. You should not be working on anything during peer critique. You should be giving feedback to a fellow classmate. When you are finished with one classmate, find another. Rinse and repeat.
 
 **Project Presentations & Mock Thesis Defenses**<br>Project critiques or mock thesis defenses will be held on designated Mondays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
 
@@ -91,14 +92,14 @@ self-assessment rubric
 
 You are always welcome to invite an outside critic to your project critiques and/or mock thesis defenses. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
 
-Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Have at least one classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
+Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and/or your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Have at least two classmates take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
 
 Rules of the Critique:
-* Be Present and Engaged (i.e. Close your laptops and stow your cellphones)
-* Give Feedback to your classmates
+* Be Present and Engaged. (i.e. Close your laptops and turn off your cellphones.)
+* Give Feedback to your classmates.
 * Do NOT take feedback personally.
 
-Students will also conduct self assessments as well as be evaluated by the professor during or after midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
+Students will also conduct self assessments as well as be evaluated by the professor throughout the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
 
 
 ### THESIS COMPONENTS
@@ -113,16 +114,16 @@ The MS Thesis in Digital Media is comprised of four primary components:
 Your thesis is under the guidance of faculty and a community of peers, both inside and outside the university, who play a number of roles:
 
 #### Thesis Faculty
-The Thesis faculty is the primary critic and mentor throughout the thesis process. 
+The Thesis faculty (for this class De Angela L. Duff) is the primary critic and mentor throughout the thesis process. 
 
 ####Project Advisor
-You will meet with your Project Advisor at least 2 to 4 times throughout the semester for feedback on your thesis paper, project, and defense presentation. *Document* your meetings with your advisor (date, time, length, and typed notes) on your thesis website.
+You will meet with your Project Advisor at least 2 to 4 times throughout the semester for feedback on your thesis paper, project, and/or defense presentation. *Document* your meetings with your advisor (date, time, length, and typed notes) on your thesis website.
 
 ####External Reviewer
-The External Reviewer is identified in consultation with your Thesis Advisor. The Thesis Faculty or IDM's Academic Advisor will contact the External Reviewer to determine their availability for the Thesis Defense. The External Reviewer attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
+The External Reviewer is identified in consultation with your Project Advisor. The Thesis Faculty or IDM's Academic Advisor will contact the External Reviewer to determine their availability for the Thesis Defense. The External Reviewer attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
 
 ####Thesis Peers
-Your fellow graduate students are considered to be peers in the discussion and dialogue of your thesis. Students are strongly encouraged to share research and resources as well as critique from their peers. Utilize the grad studio MAGNET 805 to hold informal critiques and discussion.
+Your fellow graduate students are considered to be peers in the discussion and dialogue of your thesis. Students are strongly encouraged to share research and resources as well as critique from their peers. Utilize the grad studio MAGNET 805 to hold informal critiques and discussion outside of class.
 
 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
@@ -133,19 +134,19 @@ Your fellow graduate students are considered to be peers in the discussion and d
 
 ### STUDENT RESPONSIBILITIES
 
-* Schedule your time (keep a calendar of some sort) 
+* Schedule your time (keep a calendar of some sort). 
 * Come to class on time. 
 * Participate in class. Be vocal.
 * Present your work. 
 * Meet, individually, with the professor during your scheduled time to discuss your thesis progress.
-* Consult basecamp at least once a week for up to date info
-* Maintain a weekly, dedicated, thesis website 
-* Complete all deliverables by their due dates
-* Acquire and read copies of the required books
-* Action – do your absolute best
-* Strive for continuous improvement
-* Pay attention to detail & craft
-* Take risks & be fearless in your projects
+* Consult basecamp at least once a week for up to date info.
+* Maintain a weekly, dedicated, thesis website.
+* Complete all deliverables by their due dates.
+* Acquire and read copies of the required books.
+* Action – do your absolute best.
+* Strive for continuous improvement.
+* Pay attention to detail & craft.
+* Take risks & be fearless in your projects.
 * Have fun!
 
 
@@ -162,7 +163,7 @@ Your fellow graduate students are considered to be peers in the discussion and d
 
 ##### Attendance
 
-* Attendance is mandatory during project critiques, individual status meetings, and every student’s end of semester public presentations. If you miss an individual status meeting, it is your responsibility to reschedule with the professor. 
+* Attendance is mandatory during project critiques, individual status meetings, and every student’s end of semester public presentations. If you miss an individual status meeting, it is your responsibility to exchange a time with a fellow classmate. 
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
 * Contact the professor IN ADVANCE if you will not be in class (in person or by email is preferred).
@@ -172,7 +173,7 @@ Your fellow graduate students are considered to be peers in the discussion and d
 ##### Quantitative Grading Overview
 
 * 50% Thesis Defense (which includes Thesis Paper and Thesis Project)
-* 15% Weekly Progress: personal kanban (project milestones), calendar, self assessment rubric & [thesis website] (dm997X_ms_thesis_thesis_website.md)
+* 15% Weekly Progress: personal kanban (project milestones), calendar, self assessment rubrics & [thesis website] (dm997X_ms_thesis_thesis_website.md)
 * 10% Mock Thesis Defenses
 * 10% Project Critique Presentations
 * 2.5% Letter to Next Cohort
@@ -186,29 +187,32 @@ Extra Credit: Career Counseling Appt. through NYU's Waserman Center
 You will be judged on the quality, relevance, iteration, completion, and presentation of your thesis. 
 
 ###### A. Excellent (90-100)
-The performance and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. The work clearly differentiates itself from other work. The work has memorable impact, and pursues concepts and techniques above and beyond original goals. The ideas behind the work are original, thoughtful and/or imaginative. Spelling, punctuation or grammatical errors are non-existent. The work demonstrates the student’s ability to think critically and work independently. The work also demonstrates the student’s use of strong methods and process.
+Your performance and attendance has been of the highest level, showing sustained excellence in meeting course responsibilities. Your thesis clearly differentiates itself from other work. Your thesis has memorable impact, and pursues concepts and techniques above and beyond average goals. The ideas behind your thesis are original, thoughtful and/or imaginative. Spelling, punctuation or grammatical errors are non-existent. Your thesis demonstrates your ability to think critically and work independently. Your thesis also demonstrates the use of strong methods and process.
 
 ###### B. Very Good / Good (80-89)
-The performance and attendance of the student has been good, though not of the highest level. The work is better than average and shows extra effort. The impact of the work is good, and demonstrates the utilization of the iterative process. The work employs above average craft and attention to detail.
+Your performance and attendance has been good, though not of the highest level. Your thesis is better than average and shows extra effort. The impact of your thesis is good, and demonstrates the utilization of the iterative process. Your thesis employs above average craft and attention to detail.
 
 ###### C. Satisfactory (70-79)
-The performance and attendance of the student has been adequate, satisfactorily meeting the course requirements. Average and competent, the work has acceptable levels of impact and conceptual development. The content of the work is sufficiently developed, but it lacks thoughtful, original, and imaginative resolution and/or attention to detail and craft. The work employs process, but does not demonstrate notable solutions.
+Your performance and attendance has been adequate, satisfactorily meeting the course requirements. Average and competent, your thesis has acceptable levels of impact and conceptual development. The content of your thesis is sufficiently developed, but it lacks thoughtful, original, and imaginative resolution and/or attention to detail and craft. Your thesis employs process, but does not demonstrate notable solutions.
 
 ###### D. Poor; Below Average (60-69)
-The performance and attendance of the student has been less than adequate. The work is lacking in many or most areas that show any understanding of the research, design, and/or prototyping phase(s). The impact of the work is weak with unsound, unoriginal, or unimaginative thinking. Problems may include lack of interest, procrastination, poor planning and/or poor craft.
+Your performance and attendance has been less than adequate. Your thesis is lacking in many or most areas that show any understanding of the research, design, and/or prototyping phase(s). The impact of your thesis is weak with unsound, unoriginal, or unimaginative thinking. Problems may include lack of interest, procrastination, poor planning and/or poor craft.
 
 ###### F. Unacceptable (59 & Below)
-The performance & attendance of the student has not met course requirements. The work shows no overall understanding of the research, design, and/or prototyping phase(s) on many levels or either a severe lack of interest.
+The performance & attendance of the student has not met course requirements. Your thesis shows no overall understanding of the research, design, and/or prototyping phase(s) on many levels or either a severe lack of interest.
 
 
 ### TECHNOLOGY USE IN THE CLASSROOM
 
-Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, myspace, etc. **When your classmates are presenting, please close your laptops.**
+Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, myspace, etc. **When your classmates are presenting, please close your laptops and turn off your cell phones.**
 
 
 ### ACADEMIC HONESTY
 
-All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material.   
+All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words, media, or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material.
+
+You MUST have complete rights of use to any and all materials which appear in your thesis
+project. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with other students to create your own media or contact the authors of your media selections for rights. I strongly encourage you to use original media for your thesis project, however should you absolutely require to use stock images, video, etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated or whether it is creative commons or copyright free.   
 
 
 ### ACADEMIC ACCOMMODATIONS
@@ -226,6 +230,12 @@ Any printed assignments should always contain the following info, be saved as a 
 * Duff
 * Title of project or assignment
 
+**File Naming**
+All PDFs should be labeled as follows:
+* Firstname_Lastname_assignmentName_date.pdf (de_angela_duff_resume_2015jan03.pdf)
+
+All REVISED DOCS should be labeled as follows:
+* Firstname_Lastname_assignmentName#_date.pdf (de_angela_duff_resume2_2015feb27.pdf)
 
 ### ADDITIONAL INFO REGARDING PRINTING
 
@@ -236,11 +246,9 @@ Students, in addition to their regular NYU allotment, also have available to the
 * Browser: Chrome or Firefox
 * Github Account: (http://github.com/join)
 * HTML Text Editor (Sublime Text, Coda, Textmate, BBEdit/TextWrangler, etc)
-* FTP Application (Cyberduck, Transmit, Fetch, FileZilla, etc)
-* Web Server Space
-  * You can receive web server space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up your web server space
-  * IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
-
+* FTP Application (Cyberduck, Transmit, Fetch, etc)
+* [Web Space] (dm997X_ms_thesis_website.md)
+  
 
 ### REQUIRED BOOKS
 The following books are available for purchase in the NYU library. I highly suggest you acquire your own copies, but there will hopefully be copies on reserve in the library. 
@@ -314,7 +322,6 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [How To Write X Number of Words a Day & Not Go Crazy] (http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy)
 
-
 * [Purdue Writing Lab] (http://owl.english.purdue.edu/owl/)
   * [Purdue's OWL: MLA Formatting and Style Guide](https://owl.english.purdue.edu/owl/resource/747/01)
 
@@ -325,10 +332,13 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
   * [Purdue's OWL: Why and How To Create a Useful Outline] (https://owl.english.purdue.edu/owl/resource/544/02/)
 
   * [Purdue's OWL: Proofreading] (https://owl.english.purdue.edu/owl/resource/561/1/)
+
 * [Chicago Manual of Style] (http://www.chicagomanualofstyle.org/home.html)
 
-* [Indiana University writing lab] (http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) 
+* [Indiana University writing lab] (http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml)
+
 * [Columbia University writing lab] (http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html) 
+
 * [Paul Brian's Common Errors in English Usage](http://public.wsu.edu/~brians/errors/errors.html)
 
 * [Bird by Bird: Some Instructions on Writing and Life] (http://www.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/ref=sr_1_1?ie=UTF8&qid=1421432230&sr=8-1&keywords=bird+by+bird) by Anne Lamott
@@ -372,13 +382,13 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 ### RECOMMENDED BOOKS
 
-* [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles] (http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield<br>If you like *Do The Work* by Steven Pressfield, which is pretty much a distillation of the principles in The War of Art, also by Steven Pressfield, I highly suggest you acquire this one as well.
+* [The 4-Hour Workweek, Expanded and Updated] (http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss
 
 * [Anything You Want] (http://www.amazon.com/Anything-You-Want-Derek-Sivers/dp/1936719118/ref=sr_1_1?s=books&ie=UTF8&qid=1312561032&sr=1-1) by Derek Sivers 
 
 * [The Art of Non-Conformity: Set Your Own Rules, Live the Life You Want, and Change the World] (http://www.amazon.com/Art-Non-Conformity-Rules-Change-World/dp/0399536108/ref=sr_1_1?s=books&ie=UTF8&qid=1312561247&sr=1-1) by Chris Guillebeau
 
-* [The 4-Hour Workweek, Expanded and Updated] (http://www.amazon.com/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357/ref=sr_1_2?s=books&ie=UTF8&qid=1312561321&sr=1-2) by Timothy Ferriss 
+* [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles] (http://www.amazon.com/War-Art-Through-Creative-Battles/dp/0446691437/) by Steven Pressfield<br>If you like *Do The Work* by Steven Pressfield, which is pretty much a distillation of the principles in The War of Art, also by Steven Pressfield, I highly suggest you acquire this one as well.
 
 
 ### [THESIS ASSIGNMENTS](dm997X_ms_thesis_assignments.md)
