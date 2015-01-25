@@ -36,7 +36,7 @@
         <li>2. Think Process, Not Product, p. 30-43</li>
         <li>3. Share Something Small Every Day, p. 44-69</li>
         </ul>  
-    <li>By or before Monday Jan 26 at 5pm, <strong>email deangela.duff@nyu.edu a PDF (firstname_lastname_MS_thesis_paper_preliminaries.pdf) of your responses to the MS Thesis Beginning of Semester Status doc</strong> (MS_Thesis_Paper_Preliminaries.doc) found under files on basecamp.</li>
+    <li>By or before Monday Jan 26 at 5pm, <strong>email deangela.duff@nyu.edu a PDF (firstname_lastname_MS_Thesis_Beg_of_Sem_Status.pdf) of your responses to the MS Thesis Beginning of Semester Status doc</strong> (MS_Thesis_Beg_of_Sem_Status.doc) found under files on basecamp.</li>
     </ul></td>    
 </tr>
 <tr>
@@ -44,6 +44,15 @@
     <td>
         <ul>
         <li>Guest Talk: Eddie Chen, IDM MS '14</li>
+        <li>In-Class Exercise (Post-its): List 1 to 5 learning goals and/or expectations for this class. One per post-it.</li>
+        <li>In-Class Exercise (Post-its): What did you like and didn’t like from pre-thesis and why?</li>
+            <ul>
+            <li>Assignments</li>
+            <li>Teacher</li>
+            <li>Classmates</li>
+            <li>Classroom Environment</li>
+            <li>Resources (Software, Books, etc.)</li>
+            </ul>
         <li>Syllabus Q&amp;A</li>
         <li>Confirm Groups A and B</li>
         <li>Create Individual Meeting Order</li>

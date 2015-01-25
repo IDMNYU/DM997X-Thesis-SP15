@@ -28,20 +28,20 @@
 
 ## Welcome to MS Thesis In Digital Media!
 
-This is the second semester of a two-semester sequence culminating in a thesis defense, a thesis paper, a thesis project, and  thesis website, accomplished through a combination of q.
+This is the second semester of a two-semester sequence culminating in a thesis defense, a thesis paper, a thesis project, and  thesis website, accomplished through a combination of questioning, researching, building/making, writing, and researching.
 
 
 ### PROGRAM GOALS
 
 The following IDM program goals are reinforced within this course. At a graduate level, students will:
 
-* 1 – develop **conceptual thinking skills** to generate ideas and content in order to solve problems or create opportunities.
+* develop **conceptual thinking skills** to generate ideas and content in order to solve problems or create opportunities.
   * Students will develop a research and studio practice through inquiry and iteration.
-* 2 – develop **technical skills** to realize their ideas.
+* develop **technical skills** to realize their ideas.
   * Students will understand and utilize tools and technology, while adapting to constantly changing technological paradigms by learning how to learn.
   * Students will be able to integrate/interface different technologies within a technological ecosystem.
-* 3 – develop **critical thinking skills** that will allow them to analyze and position their work within cultural, historic, aesthetic, economic, and technological contexts.
-* 4 – gain knowledge of **professional practices and organizations** by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
+* develop **critical thinking skills** that will allow them to analyze and position their work within cultural, historic, aesthetic, economic, and technological contexts.
+* gain knowledge of **professional practices and organizations** by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
 
 
 ### COURSE GOALS
