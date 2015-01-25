@@ -48,7 +48,6 @@
         <li>In-Class Exercise (Post-its): What did you like and didn’t like from pre-thesis and why?</li>
             <ul>
             <li>Assignments</li>
-            <li>Teacher</li>
             <li>Classmates</li>
             <li>Classroom Environment</li>
             <li>Resources (Software, Books, etc.)</li>
