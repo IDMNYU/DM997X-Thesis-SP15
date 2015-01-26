@@ -167,13 +167,13 @@ Your fellow graduate students are considered to be peers in the discussion and d
 
 ##### Quantitative Grading Overview
 
-* 50% Thesis Defense (which includes Thesis Paper and Thesis Project)
+* 50% Thesis Defense (which includes [Thesis Paper] (dm997X_ms_thesis_paper.md) and [Thesis Project] (dm997X_ms_thesis_project.md))
 * 15% Weekly Progress: personal kanban (project milestones), calendar, self assessment rubrics & [thesis website] (dm997X_ms_thesis_website.md)
 * 10% Mock Thesis Defenses
 * 10% Project Critique Presentations
-* 2.5% Letter to Next Cohort
+* 2.5% [Letter to Next Cohort] (dm997X_ms_thesis_assignments.md)
 * 7.5% Resume, Cover Letter, LinkedIn Profile
-* 5% Portfolio Website
+* 5% [Portfolio Website] (dm997X_ms_thesis_assignments.md)
 
 Extra Credit: Career Counseling Appt. through NYU's Waserman Center
 
