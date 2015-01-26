@@ -12,10 +12,6 @@
 NOTE: There are other assignments listed on the [thesis paper] (dm997X_ms_thesis_paper.md) and [thesis project] (dm997X_ms_thesis_project.md) pages. Due dates for the following assignments can be found on the [thesis calendar] (dm997X_ms_thesis_calendar.md).
 
 
-### MS THESIS BEGINNING OF SEMESTER STATUS DOC
-<strong>Email deangela.duff@nyu.edu a PDF (firstname_lastname_MS_Thesis_Beg_of_Sem_Status.pdf) of your responses to the MS Thesis Beginning of Semester Status doc</strong> (MS_Thesis_Beg_of_Sem_Status.doc) found under files on basecamp.
-
-
 ### DELIVERABLES FOR MS THESIS CATALOG / SUPPORTING FILES 
 You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
 
@@ -28,18 +24,12 @@ Create a dropbox link of
   * *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
   * Abstract
 
-* **all related project files** (e.g. video, HTML files, audio files, etc ) for
-  * alpha
-  * beta
-  * gold
-
-Here are examples of some very good, project websites:
-* =
+* **all related project files** (e.g. video, HTML files, audio files, etc ) for **gold** version
 
 
 ### PORTFOLIO WEBSITE
 
-*NOTE: This is different than your <a href="dm4003_thesis_website.md">Thesis Website</a>.*
+*NOTE: This is different than your <a href="dm4003_thesis_website.md">Thesis Process Website</a>.*
 This website should market and promote your body of work for possible employment or other post graduation opportunities. This should NOT be hosted on http://sites.bxmc.poly.edu. Ideally, you should have your own domain name.
 
 
