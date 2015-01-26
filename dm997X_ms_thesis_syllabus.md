@@ -3,7 +3,7 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2015 • Mondays 7:30-10:20PM • 2MTC MAGNET 805 • 3 credit hrs
+    De Angela L. Duff, deangela.duff@nyu.edu • Spring 2015 • Mondays 7:30-10:20PM • 2MTC MAGNET 805 • 3 credit hrs
     Office hours by appointment or directly before class • Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
 
     Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
@@ -118,7 +118,7 @@ You will meet with your Project Advisor at least 2 to 4 times throughout the sem
 The External Reviewer is identified in consultation with your Project Advisor. The Thesis Faculty or IDM's Academic Advisor will contact the External Reviewer to determine their availability for the Thesis Defense. The External Reviewer attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
 
 ####Thesis Peers
-Your fellow graduate students are considered to be peers in the discussion and dialogue of your thesis. Students are strongly encouraged to share research and resources as well as critique from their peers. Utilize the grad studio MAGNET 805 to hold informal critiques and discussion outside of class.
+Your fellow graduate students are considered to be peers in the discussion and dialogue of your thesis. Students are strongly encouraged to share research and resources as well as critique from their peers. Utilize the grad studio MAGNET 804 to hold informal critiques and discussion outside of class.
 
 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
@@ -168,7 +168,7 @@ Your fellow graduate students are considered to be peers in the discussion and d
 ##### Quantitative Grading Overview
 
 * 50% Thesis Defense (which includes Thesis Paper and Thesis Project)
-* 15% Weekly Progress: personal kanban (project milestones), calendar, self assessment rubrics & [thesis website] (dm997X_ms_thesis_thesis_website.md)
+* 15% Weekly Progress: personal kanban (project milestones), calendar, self assessment rubrics & [thesis website] (dm997X_ms_thesis_website.md)
 * 10% Mock Thesis Defenses
 * 10% Project Critique Presentations
 * 2.5% Letter to Next Cohort
