@@ -101,7 +101,7 @@ Students will also conduct self assessments as well as be evaluated by the profe
 The MS Thesis in Digital Media is comprised of four primary components: 
 * Thesis Paper
 * Thesis Project
-* Thesis Website 
+* Thesis Process Website 
 * Thesis Defense
 
 
@@ -168,7 +168,7 @@ Your fellow graduate students are considered to be peers in the discussion and d
 ##### Quantitative Grading Overview
 
 * 50% Thesis Defense (which includes [Thesis Paper] (dm997X_ms_thesis_paper.md) and [Thesis Project] (dm997X_ms_thesis_project.md))
-* 15% Weekly Progress: Personal Kanban (Project Milestones), Calendar, Self Assessment Rubrics & [Thesis Website] (dm997X_ms_thesis_website.md)
+* 15% Weekly Progress: Personal Kanban (Project Milestones), Calendar, Self Assessment Rubrics & [Thesis Process Website] (dm997X_ms_thesis_website.md)
 * 10% Mock Thesis Defenses
 * 10% Project Critique Presentations
 * 2.5% [Letter to Next Cohort] (dm997X_ms_thesis_assignments.md)
@@ -249,7 +249,6 @@ Students, in addition to their regular NYU allotment, also have available to the
 The following books are available for purchase in the NYU library. I highly suggest you acquire your own copies, but there will hopefully be copies on reserve in the library. 
 
 * [Do The Work!] (http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
-
 * [Show Your Work!] (http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon) by Austin Kleon
 
 
@@ -351,7 +350,6 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 ### RECOMMENDED PRESENTATION RESOURCES
 
 * [Speaking.io] (http://speaking.io)
-
 * [Presentation Zen: Simple Ideas on Presentation Design and Delivery (2nd Edition)] (http://www.amazon.com/Presentation-Zen-Simple-Delivery-Edition/dp/0321811984/ref=sr_1_4?ie=UTF8&qid=1358102885&sr=8-4&keywords=presentation+zen) by Garr Reynolds
 
 
@@ -390,7 +388,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 ### [THESIS ASSIGNMENTS](dm997X_ms_thesis_assignments.md)
 See Appendix
 
-### [THESIS WEBSITE](dm997X_ms_thesis_website.md)
+### [THESIS PROCESS WEBSITE](dm997X_ms_thesis_website.md)
 See Appendix
 
 ### [THESIS PAPER](dm997X_ms_thesis_paper.md)

@@ -8,9 +8,9 @@
 
 ---
 
-## THESIS WEBSITE
+## THESIS PROCESS WEBSITE
 
-You should have a **dedicated**, thesis website to document the **weekly** progress of your MS Thesis in wordpress on http://sites.bxmc.poly.edu
+You should have a **dedicated**, thesis website to document the **weekly** progress/process of your MS Thesis in wordpress on http://sites.bxmc.poly.edu
 * Students are expected to share their progress with the instructor and class using
 their thesis website.
 * You can receive web space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up an appointment for your web space.
@@ -31,7 +31,7 @@ Also the following PDFs contain excellent examples of possible entries:
 * http://www.clickcolleen.com/foodforthought/CMiller_processbook.pdf
 
 **What your thesis website should contain?**
-* *Weekly Thesis Progress*
+* *Weekly Thesis Progress/Process*
   * at least, 1 post per week DUE at noon on Mondays. If it is not posted by noon, you will not receive credit. 
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
   * Project Advisor Meeting Documentation (2-4x)
@@ -44,7 +44,7 @@ Also the following PDFs contain excellent examples of possible entries:
   * The “elevator pitch” / Thesis Statement
   * A link to your pre-thesis site
   * A link to a pdf of your pre-thesis defense presentation
-  * Documentation of your prototype from pre-thesis
+  * Documentation (i.e. hi-res images and/or video) of your prototype from pre-thesis
 
 * *Sourced & Annotated Research / Reference / Inspiration* 
   * Sourced means where did you get this from? if it is a website, provide a link. If it is a book, provide a bibliography. If it is an image, where did you get it from? If it is a quote, who said it or who did you poll or interview?

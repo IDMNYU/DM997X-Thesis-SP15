@@ -36,7 +36,7 @@
         <li>2. Think Process, Not Product, p. 30-43</li>
         <li>3. Share Something Small Every Day, p. 44-69</li>
         </ul>  
-    <li>By or before Monday Jan 26 at 5pm, <strong>email deangela.duff@nyu.edu a PDF (firstname_lastname_MS_Thesis_Beg_of_Sem_Status.pdf) of your responses to the MS Thesis Beginning of Semester Status doc</strong> (MS_Thesis_Beg_of_Sem_Status.doc) found under files on basecamp.</li>
+    <li>By or before Monday Jan 26 at 5pm, <strong>email deangela.duff@nyu.edu a PDF (firstnamelastname_MSThesis_Beg_of_Sem_Status.pdf) of your responses to the MS Thesis Beginning of Semester Status doc</strong> (MS_Thesis_Beg_of_Sem_Status.doc) found under files on basecamp.</li>
     </ul></td>    
 </tr>
 <tr>
@@ -52,7 +52,7 @@
             <li>Classroom Environment</li>
             <li>Resources (Software, Books, etc.)</li>
             </ul>
-        <li>Syllabus Q&amp;A</li>
+        <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
         <li>Confirm Groups A and B</li>
         <li>Create Individual Meeting Order</li>
         <li>Discuss assigned chapters in <i>Do The Work!</i></strong> by Steven Pressfield</li>
