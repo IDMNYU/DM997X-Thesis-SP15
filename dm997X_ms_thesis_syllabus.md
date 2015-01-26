@@ -3,10 +3,8 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2015 
-    Mondays • 7:30-10:20PM • 2MTC MAGNET 805 • 3 credit hrs
-    Office hours by appointment or directly before class 
-    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
+    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2015 • Mondays 7:30-10:20PM • 2MTC MAGNET 805 • 3 credit hrs
+    Office hours by appointment or directly before class • Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
 
     Prerequisite: DM-GY 9963 MS Pre-Thesis in Digital Media: Research Methods
    
@@ -22,13 +20,13 @@
 *“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”* -Norman Vincent Peale
 
 *“The successful warrior is the average person with laser-like focus.”* – Bruce Lee
-
+ 
 ---
 
 
 ## Welcome to MS Thesis In Digital Media!
 
-This is the second semester of a two-semester sequence culminating in a thesis defense, a thesis paper, a thesis project, and thesis website, accomplished through a combination of questioning, researching, building/making, writing, and presenting.
+This is the second semester of a two-semester sequence culminating in a thesis defense, a thesis paper, a thesis project, and thesis website, accomplished through a combination of questioning, researching, building/making, writing, iterating, and presenting.
 
 
 ### PROGRAM GOALS
@@ -51,6 +49,7 @@ This course will help students deeply:
 * research
 * build/make
 * write
+* iterate
 * present
 
 
@@ -61,7 +60,7 @@ By the end of the course, students will be able to develop, complete, and docume
 
 ### COURSE STRUCTURE
 
-Students are expected to be on time for all meetings, critiques, and presentations. 
+Students are expected to be on time for all meetings, critiques, and presentations. Due to the number of students in this class, you will be assigned to group A or B for individual meetings and/or presentation schedules.
 
 This class will consist of
 * Lecture
@@ -75,10 +74,6 @@ This class will consist of
 **Individual Meetings**<br>The order of our weekly, individual 10 minute status meetings will be determined on the first day of class. Individual meetings will be held after the group critiques. Students who do the group critique will NOT meet for individual meetings on the same day. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
 Individual meetings are not optional. They are important and useful. Sometimes
 they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please show professional courtesy and let me know ahead of time.
-
-Discuss group A & B
-
-self-assessment rubric
 
 **In-class peer critiques**<br>While I am meeting with your fellow classmates, it is mandatory that you receive peer critique on whatever you are currently working on. You should not be working on anything during peer critique. You should be giving feedback to a fellow classmate. When you are finished with one classmate, find another. Rinse and repeat.
 
@@ -209,7 +204,7 @@ Laptop computers and other mobile devices are invaluable tools for students when
 
 ### ACADEMIC HONESTY
 
-All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words, media, or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material.
+All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words, media, or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material. Reference [Indiana University's Plagiarism: What It is and How to Recognize and Avoid It] (http://www.indiana.edu/~wts/pamphlets/plagiarism.shtml).
 
 You MUST have complete rights of use to any and all materials which appear in your thesis
 project. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with other students to create your own media or contact the authors of your media selections for rights. I strongly encourage you to use original media for your thesis project, however should you absolutely require to use stock images, video, etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated or whether it is creative commons or copyright free.   
@@ -314,7 +309,9 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [NYU SoE's Thesis guidelines] (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)
 
-* [The Elements of Style Illustrated] (http://www.amazon.com/Elements-Style-Illustrated-William-Strunk/dp/0143112724) by Strunk, White, and Kalman
+* [The Elements of Style, Fourth Edition] (http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?ie=UTF8&qid=1422276317&sr=8-1&keywords=stunk+and+whites+elements+of+style) by Strunk and White
+
+* [The Mac is Not a Typewriter] (http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?ie=UTF8&qid=1422276493&sr=8-1&keywords=the+mac+is+not+a+typewriter) by Robin Williams
 
 * [The Basis of Academic Writing] (http://www.gwr.arizona.edu/content-topics.htm)
      

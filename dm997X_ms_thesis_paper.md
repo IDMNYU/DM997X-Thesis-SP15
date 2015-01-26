@@ -26,10 +26,17 @@ Look at the example of a mind map on basecamp, and create a mind map of your pap
 ### Assignment: Written outline
 Read [Indiana University's Using Outlines] (http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your outline.
 
+
 ### Assignment: Abstract and Intro (Background/Context/Rationale)
+
+* Read [Indiana University's Writing Abstracts] (http://www.indiana.edu/~wts/pamphlets/abstracts.shtml), BEFORE you write your abstract.
+
+* Read [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml), BEFORE you write your intro.
 
 
 ### Assignment: Body (Methodology)
+
+Read [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml), BEFORE you write your body.
 
 
 ### Assignment: Conclusion
