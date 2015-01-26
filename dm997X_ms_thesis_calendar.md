@@ -36,7 +36,7 @@
         <li>2. Think Process, Not Product, p. 30-43</li>
         <li>3. Share Something Small Every Day, p. 44-69</li>
         </ul>  
-    <li>By or before Monday Jan 26 at 5pm, <strong>email deangela.duff@nyu.edu a PDF (firstnamelastname_MSThesis_Beg_of_Sem_Status.pdf) of your responses to the MS Thesis Beginning of Semester Status doc</strong> (MS_Thesis_Beg_of_Sem_Status.doc) found under files on basecamp.</li>
+    <li>By or before Monday Jan 26 at 10:30pm, <strong>email deangela.duff@nyu.edu a PDF (firstnamelastname_MSThesis_Beg_of_Sem_Status.pdf) of your responses to the MS Thesis Beginning of Semester Status doc</strong> (MS_Thesis_Beg_of_Sem_Status.doc) found under files on basecamp.</li>
     </ul></td>    
 </tr>
 <tr>
@@ -59,6 +59,7 @@
         <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
         <li>Discuss <a href="http://chrisguillebeau.com/how-to-write-a-dozen-novels-and-hundreds-of-stories" target="_blank">How To Write A Dozen Novels and Hundreds of Stories</a></li>
         <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones</li>
+        <li>Overview of [RescueTime] (http://rescuetime.com) and [Zapier] (http://zapier.com) (alternative to [https://ifttt.com/](ifttt))</li>
         </ul>
 </td>  
 </tr>
@@ -66,6 +67,7 @@
     <td>Mon, Feb 02</td>
     <td>
     <ul>
+    <li>Install [RescueTime] (http://rescuetime.com) and populate categories and productivity values</li>
     <li><strong>Populate a calendar</strong> (google, iCal, or non-digital) with due dates for this class</li>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 1st Draft</li>

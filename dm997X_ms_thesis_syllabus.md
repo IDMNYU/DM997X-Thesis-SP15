@@ -226,6 +226,7 @@ Any printed assignments should always contain the following info, be saved as a 
 * Title of project or assignment
 
 **File Naming**
+
 All PDFs should be labeled as follows:
 * firstnameLastname_assignmentName_date.pdf (deangeladuff_resume_2015jan03.pdf)
 
