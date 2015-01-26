@@ -204,7 +204,7 @@ Laptop computers and other mobile devices are invaluable tools for students when
 
 ### ACADEMIC HONESTY
 
-All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words, media, or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material. Reference [Indiana University's Plagiarism: What It is and How to Recognize and Avoid It] (http://www.indiana.edu/~wts/pamphlets/plagiarism.shtml).
+All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words, media, or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA or Chicago Manual of Style for citing and documenting source material. Reference [Indiana University's Plagiarism: What It is and How to Recognize and Avoid It] (http://www.indiana.edu/~wts/pamphlets/plagiarism.shtml).
 
 You MUST have complete rights of use to any and all materials which appear in your thesis
 project. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with other students to create your own media or contact the authors of your media selections for rights. I strongly encourage you to use original media for your thesis project, however should you absolutely require to use stock images, video, etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated or whether it is creative commons or copyright free.   
@@ -319,6 +319,9 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 * [How To Write X Number of Words a Day & Not Go Crazy] (http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy)
 
 * [Purdue Writing Lab] (http://owl.english.purdue.edu/owl/)
+
+  * [Purdue's OWL: Chicago Manual of Style 16th Edition] (https://owl.english.purdue.edu/owl/resource/717/01/)
+  
   * [Purdue's OWL: MLA Formatting and Style Guide](https://owl.english.purdue.edu/owl/resource/747/01)
 
   * [Tips and Examples for Writing Thesis Statements] (https://owl.english.purdue.edu/owl/resource/587/1/)
