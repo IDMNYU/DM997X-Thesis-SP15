@@ -17,7 +17,7 @@ The Thesis Defense Panel is comprised of:
 * An External Examiner
 * Thesis Peers
 
-See <a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> for descriptions of these roles.
+See <a href="dm997X_ms_thesis_syllabus.md">syllabus</a> for descriptions of these thesis roles.
 
 Your thesis defenses may be recorded for documentation for IDM's websites. If you are not comfortable with possibly having your defense documented, let IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, know as soon as possible.
 
