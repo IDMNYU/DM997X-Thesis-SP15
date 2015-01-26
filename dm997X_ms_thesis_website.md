@@ -25,6 +25,11 @@ Spencer Hargiss’ thesis website is a good example, http://www.spencerhargiss.c
 * He had visual documentation (images and screenshots). 
 * However, most importantly, he had supporting text for these images and screenshots.
 
+Also the following PDFs contain excellent examples of possible entries:
+* http://issuu.com/russmaschmeyer/docs/motiv-process-book (process)
+  * http://musicwithmotiv.com (project)
+* http://www.clickcolleen.com/foodforthought/CMiller_processbook.pdf
+
 **What your thesis website should contain?**
 * *Weekly Thesis Progress*
   * at least, 1 post per week DUE at noon on Mondays. If it is not posted by noon, you will not receive credit. 

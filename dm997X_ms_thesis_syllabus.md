@@ -168,7 +168,7 @@ Your fellow graduate students are considered to be peers in the discussion and d
 ##### Quantitative Grading Overview
 
 * 50% Thesis Defense (which includes [Thesis Paper] (dm997X_ms_thesis_paper.md) and [Thesis Project] (dm997X_ms_thesis_project.md))
-* 15% Weekly Progress: personal kanban (project milestones), calendar, self assessment rubrics & [thesis website] (dm997X_ms_thesis_website.md)
+* 15% Weekly Progress: Personal Kanban (Project Milestones), Calendar, Self Assessment Rubrics & [Thesis Website] (dm997X_ms_thesis_website.md)
 * 10% Mock Thesis Defenses
 * 10% Project Critique Presentations
 * 2.5% [Letter to Next Cohort] (dm997X_ms_thesis_assignments.md)
@@ -227,10 +227,11 @@ Any printed assignments should always contain the following info, be saved as a 
 
 **File Naming**
 All PDFs should be labeled as follows:
-* Firstname_Lastname_assignmentName_date.pdf (de_angela_duff_resume_2015jan03.pdf)
+* firstnameLastname_assignmentName_date.pdf (deangeladuff_resume_2015jan03.pdf)
 
 All REVISED DOCS should be labeled as follows:
-* Firstname_Lastname_assignmentName#_date.pdf (de_angela_duff_resume2_2015feb27.pdf)
+* firstnamelastname_assignmentName#_date.pdf (deangeladuff_resume2_2015feb27.pdf)
+
 
 ### ADDITIONAL INFO REGARDING PRINTING
 
@@ -239,7 +240,6 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 ### SOFTWARE REQUIREMENTS
 * Browser: Chrome or Firefox
-* Github Account: (http://github.com/join)
 * HTML Text Editor (Sublime Text, Coda, Textmate, BBEdit/TextWrangler, etc)
 * FTP Application (Cyberduck, Transmit, Fetch, etc)
 * [Web Space] (dm997X_ms_thesis_website.md)
@@ -259,7 +259,6 @@ The following books are available for purchase in the NYU library. I highly sugg
 * [RescueTime] (http://rescuetime.com)
 * [Zapier] (http://zapier.com) (optional)
 * [Poly's Writing Center] (http://engineering.nyu.edu/academics/support/polytechnic/writing)
-
 
 
 ### ADDITIONAL RECOMMENDED TIME MANAGEMENT & PRODUCTIVITY RESOURCES BEYOND PERSONAL KANBAN
