@@ -61,17 +61,16 @@ Read <i>Do The Work</i> and answer the following questions in context of your th
     * *Research:* Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, tech research, material research, visual research, collection, interviews, observation, etc.
         * You should decide what kinds of research / reference / inspiration is most appropriate for your project. 
     * *Research Methods:* Information about your research strategy, data collection techniques, how you intend to analyze your collected data and limitations of your research. 
- * **Resources** 
- Including, but not limited to:
+ * **Resources** (including, but not limited to)
     * List of Collaborators, Participants, and Advisors (People and their roles). Be Specific. First &amp; Last Names and URLs if available
     * Materials &amp; Vendors List
     * Technical requirements
     * Budget
-  
-    You should decide what kinds of resources are most appropriate for your project. (How are you achieving this?)
+  You should decide what kinds of resources are most appropriate for your project. (How are you achieving this?)
+    
 
-* **Design**
-    * Including, but not limited to, design sketches, process maps, drawings, wireframes / schematics, storyboards, comps, mood boards, concept boards, screen shots, videos, diagrams, images 
+* **Design** (including, but not limited to)
+    * design sketches, process maps, drawings, wireframes / schematics, storyboards, comps, mood boards, concept boards, screen shots, videos, diagrams, images 
         <ul>
         <li>You should decide which processes are most appropriate for your project.</li>
         </ul>
