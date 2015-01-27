@@ -57,16 +57,16 @@ Read <i>Do The Work</i> and answer the following questions in context of your th
  I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.
  * **Research**
     * *Literature Review:* Who-is-writing-what in relation to your research area(s).
-    * *Related Work or Competitive Analysis:* Who-is-doing-what in relation to your research area(s).Conduct a comparative analysis of similar projects. Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? 
+    * *Related Work or Competitive Analysis:* Who-is-doing-what in relation to your research area(s). Conduct a comparative analysis of similar projects. Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? 
     * *Research:* Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, tech research, material research, visual research, collection, interviews, observation, etc.
         * You should decide what kinds of research / reference / inspiration is most appropriate for your project. 
     * *Research Methods:* Information about your research strategy, data collection techniques, how you intend to analyze your collected data and limitations of your research. 
  * **Resources** 
-    * Including, but not limited to:
-        * List of Collaborators, Participants, and Advisors (People and their roles). Be Specific. First &amp; Last Names and URLs if available
-        * Materials &amp; Vendors List
-        * Technical requirements
-        * Budget
+ Including, but not limited to:
+    * List of Collaborators, Participants, and Advisors (People and their roles). Be Specific. First &amp; Last Names and URLs if available
+    * Materials &amp; Vendors List
+    * Technical requirements
+    * Budget
   
     You should decide what kinds of resources are most appropriate for your project. (How are you achieving this?)
 
