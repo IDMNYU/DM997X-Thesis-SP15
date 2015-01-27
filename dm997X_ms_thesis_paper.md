@@ -28,26 +28,28 @@ Read [Indiana University's Using Outlines] (http://www.indiana.edu/~wts/pamphlet
 
 
 ### Assignment: Abstract and Intro (Background/Context/Rationale)
-Background information. Research focus and objectives. Outline research plan. Value of your Research.
-**Your motivation, drive, and/or purpose**
+* Read [Indiana University's Writing Abstracts] (http://www.indiana.edu/~wts/pamphlets/abstracts.shtml), BEFORE you write your abstract.
+
+* Read [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml), BEFORE you write your intro.
+
+* Background information
+* **Discuss Your motivation, drive, and/or purpose**
 Read <i>Do The Work</i> and answer the following questions in context of your thesis.
     <ul>
     <li>What does she (you) love? (p. 24)</li>
     <li>How bad do you want to complete your project? (p. 68)</li>
     <li>Why do you want to complete your project? (p. 68-69)</li>
     </ul>
-(<strong>Why are you doing this thesis?</strong> What are you discovering here? What questions are you asking? What are you exploring?)
-**Target Audience**
+(Why are you doing this thesis? What are you discovering here? What questions are you asking? What are you exploring?)
+* **Identify Target Audience**
     <ul>
     <li>Who cares? Who will care? Who is your target audience?)</li>
     <li>What do you want your target audience to experience when they interact with your thesis?</li>
     </ul>
 (Who is this thesis for? Please note that everyone is not a valid answer. Target is the key word here.)
-
-* Read [Indiana University's Writing Abstracts] (http://www.indiana.edu/~wts/pamphlets/abstracts.shtml), BEFORE you write your abstract.
-
-* Read [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml), BEFORE you write your intro.
-
+* Research focus and objectives
+* Outline research plan. 
+* Value of your Research.
 
 ### Assignment: Body 
  Read [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml), BEFORE you write your body.
@@ -84,7 +86,7 @@ Read <i>Do The Work</i> and answer the following questions in context of your th
      * Alpha
      * Beta
      * Gold
-     
+
 * **User Testing**
     * Results: Information about the data you collected at each stage of development and how it compares against your Literature Review, Related Work, or Competitive Analysis findings.
 
