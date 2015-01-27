@@ -74,7 +74,7 @@ Read <i>Do The Work</i> and answer the following questions in context of your th
         <li>You should decide which processes are most appropriate for your project.</li>
         </ul>
 
- * **Development**
+* **Development**
     * Prototype(s) – including, but not limited to, exercises, tests, models, maquettes, animatics 
         <ul>
         <li>A prototype “is an early sample or model built to test a concept or process or to act as a thing to be replicated or learned from.”</li>
@@ -84,7 +84,8 @@ Read <i>Do The Work</i> and answer the following questions in context of your th
      * Alpha
      * Beta
      * Gold
- * **User Testing**
+     
+* **User Testing**
     * Results: Information about the data you collected at each stage of development and how it compares against your Literature Review, Related Work, or Competitive Analysis findings.
 
 
