@@ -27,7 +27,7 @@ Send IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, a PDF of your co
 
 
 ## AT THE THESIS DEFENSE
-Bring *3 copies of the signature pages on acid-free paper* (what you will print the final Thesis on) to the Defense for signing. Please note that there are two different signature pages.
+Bring *3 copies of the signature pages on acid-free paper* (what you will print the final Thesis on) or 4 copies if you want to get a bound copy for yourself to the Defense for signing. Please note that there are two different signature pages.
 
 The first is seen in the [NYU SoE's Thesis guidelines] (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf), (also on Masters_Thesis_Project_Guidelines_March2014_version.pdf on basecamp under Files), and contains spacing for:
 * Project Advisor (will sign at the end of the thesis defense) 

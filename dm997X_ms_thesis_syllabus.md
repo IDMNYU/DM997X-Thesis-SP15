@@ -251,6 +251,7 @@ The following books are available for purchase in the NYU library. I highly sugg
 
 * [Do The Work!] (http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
 * [Show Your Work!] (http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon) by Austin Kleon
+* [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
 
 ### REQUIRED TOOLS
@@ -308,6 +309,8 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [NYU SoE's Thesis guidelines] (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)
 
+
+
 * [The Elements of Style, Fourth Edition] (http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?ie=UTF8&qid=1422276317&sr=8-1&keywords=stunk+and+whites+elements+of+style) by Strunk and White
 
 * [The Mac is Not a Typewriter] (http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?ie=UTF8&qid=1422276493&sr=8-1&keywords=the+mac+is+not+a+typewriter) by Robin Williams
@@ -318,11 +321,16 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [How To Write X Number of Words a Day & Not Go Crazy] (http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy)
 
+* [NYU's Tips for Thesis and Dissertation Writers] (http://guides.nyu.edu/content.php?pid=31133&sid=1112487)
+  * Dissertation Abstracts (Sample Theses)
+
 * [Purdue Writing Lab] (http://owl.english.purdue.edu/owl/)
 
   * [Purdue's OWL: Chicago Manual of Style 16th Edition] (https://owl.english.purdue.edu/owl/resource/717/01/)
-  
+
   * [Purdue's OWL: MLA Formatting and Style Guide](https://owl.english.purdue.edu/owl/resource/747/01)
+
+  * [Purdue's OWL: MLA Sample Paper with Endnotes and Bibliography] (https://owl.english.purdue.edu/media/pdf/20090701095636_747.pdf)
 
   * [Tips and Examples for Writing Thesis Statements] (https://owl.english.purdue.edu/owl/resource/587/1/)
 

@@ -11,7 +11,7 @@
 ## THESIS PAPER GUIDELINES
 
 For standard formatting, consult
-Master's Thesis and Project Guidelines_March2014 version.pdf and the template
+Master's Thesis and Project Guidelines_March2014 version.pdf, the word templates, as well as [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
 ### Assignment: The “elevator pitch” / Thesis Statement
 Read [Indiana University's How To Write a Thesis Statement] (http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
@@ -28,15 +28,64 @@ Read [Indiana University's Using Outlines] (http://www.indiana.edu/~wts/pamphlet
 
 
 ### Assignment: Abstract and Intro (Background/Context/Rationale)
+Background information. Research focus and objectives. Outline research plan. Value of your Research.
+**Your motivation, drive, and/or purpose**
+Read <i>Do The Work</i> and answer the following questions in context of your thesis.
+    <ul>
+    <li>What does she (you) love? (p. 24)</li>
+    <li>How bad do you want to complete your project? (p. 68)</li>
+    <li>Why do you want to complete your project? (p. 68-69)</li>
+    </ul>
+(<strong>Why are you doing this thesis?</strong> What are you discovering here? What questions are you asking? What are you exploring?)
+**Target Audience**
+    <ul>
+    <li>Who cares? Who will care? Who is your target audience?)</li>
+    <li>What do you want your target audience to experience when they interact with your thesis?</li>
+    </ul>
+(Who is this thesis for? Please note that everyone is not a valid answer. Target is the key word here.)
 
 * Read [Indiana University's Writing Abstracts] (http://www.indiana.edu/~wts/pamphlets/abstracts.shtml), BEFORE you write your abstract.
 
 * Read [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml), BEFORE you write your intro.
 
 
-### Assignment: Body (Methodology)
+### Assignment: Body 
+ Read [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml), BEFORE you write your body.
 
-Read [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml), BEFORE you write your body.
+ I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.
+ * **Research**
+    * *Literature Review:* Who-is-writing-what in relation to your research area(s).
+    * *Related Work or Competitive Analysis:* Who-is-doing-what in relation to your research area(s).Conduct a comparative analysis of similar projects. Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? 
+    * *Research:* Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, tech research, material research, visual research, collection, interviews, observation, etc.
+        * You should decide what kinds of research / reference / inspiration is most appropriate for your project. 
+    * *Research Methods:* Information about your research strategy, data collection techniques, how you intend to analyze your collected data and limitations of your research. 
+ * **Resources** 
+    * Including, but not limited to:
+        * List of Collaborators, Participants, and Advisors (People and their roles). Be Specific. First &amp; Last Names and URLs if available
+        * Materials &amp; Vendors List
+        * Technical requirements
+        * Budget
+  
+    You should decide what kinds of resources are most appropriate for your project. (How are you achieving this?)
+
+* **Design**
+    * Including, but not limited to, design sketches, process maps, drawings, wireframes / schematics, storyboards, comps, mood boards, concept boards, screen shots, videos, diagrams, images 
+        <ul>
+        <li>You should decide which processes are most appropriate for your project.</li>
+        </ul>
+
+ * **Development**
+    * Prototype(s) – including, but not limited to, exercises, tests, models, maquettes, animatics 
+        <ul>
+        <li>A prototype “is an early sample or model built to test a concept or process or to act as a thing to be replicated or learned from.”</li>
+        <li>As a result, a prototype can take on many forms. Essentially, it is your project or aspects of your project in an unfinished form.</li>
+        <li>You should decide what kinds of prototype(s) are most appropriate for your project.</li>
+        </ul>
+     * Alpha
+     * Beta
+     * Gold
+ * **User Testing**
+    * Results: Information about the data you collected at each stage of development and how it compares against your Literature Review, Related Work, or Competitive Analysis findings.
 
 
 ### Assignment: Conclusion
