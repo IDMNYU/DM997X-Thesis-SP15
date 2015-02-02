@@ -67,7 +67,7 @@
     <td>Mon, Feb 02</td>
     <td>
     <ul>
-    <li>Install [RescueTime] (http://rescuetime.com) and populate categories and productivity values</li>
+    <li>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a> and populate categories and productivity values.</li>
     <li><strong>Populate a calendar</strong> (google, iCal, or non-digital) with due dates for this class</li>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 1st Draft</li>
