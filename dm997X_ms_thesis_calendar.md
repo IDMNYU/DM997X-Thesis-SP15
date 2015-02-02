@@ -59,7 +59,7 @@
         <li>Discuss assigned chapters in <i>Show Your Work!</i></li>
         <li>Discuss <a href="http://chrisguillebeau.com/how-to-write-a-dozen-novels-and-hundreds-of-stories" target="_blank">How To Write A Dozen Novels and Hundreds of Stories</a></li>
         <li>Overview of <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones</li>
-        <li>Overview of [RescueTime] (http://rescuetime.com) and [Zapier] (http://zapier.com) (alternative to [https://ifttt.com/](ifttt))</li>
+        <li>Overview of <a href="http://rescuetime.com" target="_blank">RescueTime</a> and <a href="http://zapier.com" target="_blank">Zapier</a>, an alternative to <a href="https://ifttt.com/" target="_blank">ifttt</a>)</li>
         </ul>
 </td>  
 </tr>
