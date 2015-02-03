@@ -353,7 +353,9 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 
 ### RECOMMENDED ACADEMIC RESEARCH TOOLS
+* [EasyBib] (http://www.easybib.com)
 * [NCU Citation Builder] (http://www.lib.ncsu.edu/citationbuilder)
+* [Mendeley] (http://www.mendeley.com)
 * [EBSCO] (http://ejournals.ebsco.com/)
 * [IEEE] (http://www.ieee.org)
 * [JStor] (http://www.jstor.org)
