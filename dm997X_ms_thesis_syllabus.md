@@ -71,7 +71,7 @@ This class will consist of
 * Mock Thesis Defenses and Critique
 * [Thesis Defense] (dm997X_ms_thesis_defense.md) 
 
-**Individual Meetings**<br>The order of our weekly, individual 10 minute status meetings will be determined on the first day of class. Individual meetings will be held after the group critiques. We will alternate weeks between group A and B. Students who do the group critique will NOT meet for individual meetings on the same day. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
+**Individual Meetings**<br>The order of our weekly, individual 20 minute status meetings will be determined on the first day of class. Individual meetings will be held after the group critiques. We will alternate weeks between group A and B. Students who do the group critique will NOT meet for individual meetings on the same day. Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. 
 
 Individual meetings are not optional. They are important and useful. Sometimes
 they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please show professional courtesy and let me know ahead of time.
@@ -81,10 +81,10 @@ they are most useful exactly when you feel you have nothing to talk about or sho
 **Project Presentations & Mock Thesis Defenses**<br>Project critiques or mock thesis defenses will be held on designated Mondays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
 
      Each presentation will consist of 
-     * 10 to 15 minutes of presentation and 
-     * 10 to 15 minutes of critique 
+     * 10 minutes of presentation and 
+     * 10 minutes of critique 
      (or a combination thereof)
-     for 30 minutes total. 
+     for 20 minutes total. 
 
 You are always welcome to invite an outside critic to your project critiques and/or mock thesis defenses. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
 
