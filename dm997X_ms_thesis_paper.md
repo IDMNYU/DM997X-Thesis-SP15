@@ -31,8 +31,6 @@ Read [Indiana University's Using Outlines] (http://www.indiana.edu/~wts/pamphlet
 BEFORE you write your abstract, read:
 * [Indiana University's Writing Abstracts] (http://www.indiana.edu/~wts/pamphlets/abstracts.shtml)
 
-
-
 BEFORE you write your intro, read:
 * [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
 * Chapter 4, The dissertation Introduction, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)

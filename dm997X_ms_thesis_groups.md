@@ -12,7 +12,7 @@
 
 ## MS THESIS GROUPS
 
-Group A and Group B will alternate our individual meetings every other week. Consult the <a href="dm997X_ms_thesis_calendar.md">calendar</a> for dates.
+Group A and Group B will alternate individual meetings every other week. Consult the <a href="dm997X_ms_thesis_calendar.md">calendar</a> for dates.
 <table>
 <tr>
     <td><strong>Group A</strong></td>
