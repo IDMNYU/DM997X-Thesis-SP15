@@ -73,7 +73,7 @@
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 1st Draft</li>
     <li>In-class peer critiques</li>
-    <li>Group A: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
     <li>Make an appointment with IDM’s Technology Manager, Elton Kwok, MAGNET 883, eltonkwok@nyu.edu to connect a database to your <a href="dm4003_thesis_website.md">thesis website</a> on http://sites.bxmc.poly.edu</li>
     </ul>
     </td> 
@@ -86,7 +86,7 @@
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 2nd Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>
     <li>In-class peer critiques</li>
-    <li>Group B: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
     </ul>
     </td> 
 </tr>
@@ -101,7 +101,7 @@
     <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 2nd Draft</li>
     <li>In-class peer critiques</li>
-    <li>Group A: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates / <a href="dm997X_ms_thesis_assignments.md">Resume, Cover Letter, and LinkedIn Profile Drafts</a></li>
+    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates / <a href="dm997X_ms_thesis_assignments.md">Resume, Cover Letter, and LinkedIn Profile Drafts</a></li>
     </ul>    
     </td> 
 </tr>
@@ -113,7 +113,7 @@
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 2nd Draft</li>
     <li>In-class peer critiques</li>
-    <li>Group B: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates / <a href="dm997X_ms_thesis_assignments.md">Resume, Cover Letter, and LinkedIn Profile Drafts</a></li>
+    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates / <a href="dm997X_ms_thesis_assignments.md">Resume, Cover Letter, and LinkedIn Profile Drafts</a></li>
     </ul> 
     </td> 
 </tr>
@@ -124,7 +124,7 @@
     <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 2nd Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 2nd Draft</li>  
     <li>In-class peer critiques</li>
-    <li>Group A: Individual Meetings <a href="dm997X_ms_thesis_project.md">(Project Alpha)</a> / Personal Kanban / Self Assessment / Project Website Updates / <a href="dm997X_ms_thesis_assignments.md">Portfolio Website Drafts</a></li>
+    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings <a href="dm997X_ms_thesis_project.md">(Project Alpha)</a> / Personal Kanban / Self Assessment / Project Website Updates / <a href="dm997X_ms_thesis_assignments.md">Portfolio Website Drafts</a></li>
     </ul> 
     </td> 
 </tr>
@@ -134,7 +134,7 @@
     <ul>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 1st Draft</li> 
     <li>In-class peer critique</li>
-    <li>Group B: Individual Meetings <a href="dm997X_ms_thesis_project.md">(Project Alpha)</a> / Personal Kanban / Self Assessment / Project Website Updates / <a href="dm997X_ms_thesis_assignments.md">Portfolio Website Drafts</a></li>
+    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings <a href="dm997X_ms_thesis_project.md">(Project Alpha)</a> / Personal Kanban / Self Assessment / Project Website Updates / <a href="dm997X_ms_thesis_assignments.md">Portfolio Website Drafts</a></li>
     </ul> 
     </td> 
 </tr>
@@ -146,8 +146,8 @@
     <td>Mon, Mar 23</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta (Group A)</a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft (Group B)</li> 
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li> 
     </ul>     
     </td> 
 </tr>
@@ -155,8 +155,8 @@
     <td>Mon, Mar 30</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta (Group B)</a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft (Group A)</li> 
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></li> 
     </ul> 
     </td> 
 </tr>
@@ -169,8 +169,8 @@
     <td>Mon, Apr 06</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 1st Draft (Group A)</a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft (Group B)</li> 
+    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li> 
     </ul> 
     </td> 
 </tr>
@@ -178,8 +178,8 @@
     <td>Mon, Apr 13</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 1st Draft (Group B)</a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 2nd Draft (Group A)</li> 
+    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></li> 
     </ul> 
     </td> 
 </tr>
@@ -187,8 +187,8 @@
     <td>Mon, Apr 20</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Gold Presentations (Group A)</a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft (Group B)</li> 
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Gold Presentations <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li> 
     </ul> 
     </td> 
 </tr>
@@ -196,8 +196,8 @@
     <td>Mon, Apr 27</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Gold Presentations (Group B)</a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_assignments.md">Dropbox link of deliverables for the ms thesis catalog</a>, <a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft (Group A)</li> 
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Gold Presentations <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_assignments.md">Dropbox link of deliverables for the ms thesis catalog</a>, <a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></li> 
     </ul>     
     </td> 
 </tr>
@@ -205,7 +205,7 @@
     <td>Mon, May 04</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 2nd Draft (Group A)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 1st Draft</li> 
     </ul>  
     </td> 
@@ -214,7 +214,7 @@
     <td>Mon, May 11</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 2nd Draft (Group B)</a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 2nd Draft</li> 
     </ul>      
     </td> 
