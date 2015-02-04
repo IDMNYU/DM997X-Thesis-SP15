@@ -316,7 +316,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [The Mac is Not a Typewriter] (http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?ie=UTF8&qid=1422276493&sr=8-1&keywords=the+mac+is+not+a+typewriter) by Robin Williams
 
-* [The Basis of Academic Writing] (http://www.gwr.arizona.edu/content-topics.htm)
+* [Dr. Kendra Gaines' Basics of Academic Writing] (http://www.gwr.arizona.edu/content-topics.htm)
      
 * [Guide to Writing a Masters Thesis] (http://www.kf.vu.lt/dokumentai/Uzsienio%20reikalai/Masters_Thesis_Guide.pdf)
 

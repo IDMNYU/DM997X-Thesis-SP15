@@ -44,14 +44,6 @@
     <td>
         <ul>
         <li>Guest Talk: Eddie Chen, IDM MS '14</li>
-        <li>In-Class Exercise (Post-its): List 1 to 5 learning goals and/or expectations for this class. One per post-it.</li>
-        <li>In-Class Exercise (Post-its): What did you like and didn’t like from pre-thesis and why?</li>
-            <ul>
-            <li>Assignments</li>
-            <li>Classmates</li>
-            <li>Classroom Environment</li>
-            <li>Resources (Software, Books, etc.)</li>
-            </ul>
         <li><a href="dm997X_ms_thesis_syllabus.md">Syllabus</a> Q&amp;A</li>
         <li>Confirm Groups A and B</li>
         <li>Create Individual Meeting Order</li>
@@ -71,6 +63,13 @@
     <td>
     <ul>
     <li>Discuss <a href="http://gitprint.com/" target="_blank">gitprint.com</a>
+    <li>In-Class Exercise (Post-its): What did you like and didn’t like from pre-thesis and why?</li>
+            <ul>
+            <li>Assignments</li>
+            <li>Classmates</li>
+            <li>Classroom Environment</li>
+            <li>Resources (Software, Books, etc.)</li>
+            </ul>
     <li>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a> and populate categories and productivity values.</li>
     <li><strong>Populate a calendar</strong> (google, iCal, or non-digital) with due dates for this class</li>
     <li>Read <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></li>
@@ -85,13 +84,13 @@
 <tr>
     <td>Mon, Feb 09</td>
     <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (to receive 100% of tuition &amp; fees)
-    <ul>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 1st Draft</li>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 2nd Draft</li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>
-    <li>In-class peer critiques</li>
-    <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
-    </ul>
+        <ul>
+        <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 1st Draft</li>
+        <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 2nd Draft</li>
+        <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>
+        <li>In-class peer critiques</li>
+        <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
+        </ul>
     </td> 
 </tr>
 <tr>

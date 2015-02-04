@@ -107,7 +107,8 @@ BEFORE you write your conclusion, read:
 
 
 ### Assignment: Proofread
-Read [Indiana University's Proofreading for Common Surface Errors: Spelling, Punctuation, and Grammar] (http://www.indiana.edu/~wts/pamphlets/proofing_grammar.shtml), BEFORE you proofread.
+BEFORE you proofread, read: 
+* [Indiana University's Proofreading for Common Surface Errors: Spelling, Punctuation, and Grammar] (http://www.indiana.edu/~wts/pamphlets/proofing_grammar.shtml)
 
 
 
