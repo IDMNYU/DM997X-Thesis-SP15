@@ -30,6 +30,7 @@ Read [Indiana University's Using Outlines] (http://www.indiana.edu/~wts/pamphlet
 ### Assignment: Abstract and Intro (Background/Context/Rationale)
 BEFORE you write your abstract, read:
 * [Indiana University's Writing Abstracts] (http://www.indiana.edu/~wts/pamphlets/abstracts.shtml)
+* Chapter 10, Finally: Writing the abstract, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
 BEFORE you write your intro, read:
 * [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
@@ -55,9 +56,14 @@ Read <i>Do The Work</i> and answer the following questions in context of your th
 * Value of your Research.
 
 ### Assignment: Body 
- Read [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml), BEFORE you write your body.
 
- I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.
+BEFORE you write your body, read:
+* [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
+* Chapter 5, The Literature Review, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+* Chapter 7, Research Methods, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+
+*I recommend the following chapters. However, you can change the nomenclature or add or subtract to these as you see fit.*
+
  * **Research**
     * *Literature Review:* Who-is-writing-what in relation to your research area(s).
     * *Related Work or Competitive Analysis:* Who-is-doing-what in relation to your research area(s). Conduct a comparative analysis of similar projects. Who or what are your competitors? How will it be positioned (branding) and differentiated (market and competitors or like works)? 
@@ -94,7 +100,10 @@ Read <i>Do The Work</i> and answer the following questions in context of your th
 
 
 ### Assignment: Conclusion
-Read [Indiana’s University’s Writing Conclusions] (http://www.indiana.edu/~wts/pamphlets/conclusions.shtml), BEFORE you write your conclusion.
+BEFORE you write your conclusion, read:
+* [Indiana’s University’s Writing Conclusions] (http://www.indiana.edu/~wts/pamphlets/conclusions.shtml)
+* Chapter 9, Concluding your dissertation, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+
 
 
 ### Assignment: Proofread
