@@ -19,25 +19,26 @@ Group A and Group B will alternate our individual meetings every other week. Con
     <td><strong>Group B</strong></td>
 </tr>
 <tr>
-    <td>7:30 Class Begins<br>
-    7:40pm Billy<br>
-    8:00pm Zoey<br>
-    8:20pm Diana<br>
-    8:40pm Andrew<br>
-    9:00pm Tejas<br>
-    9:20pm Javier<br>
-    9:40pm Zijun<br>
-    10:00pm Nabil<br>
+    <td>
+    7:30pm Class Begins</br>
+    7:40pm <strong>Billy</strong></br>
+    8:00pm <strong>Zoey</strong></br>
+    8:20pm <strong>Diana</strong></br>
+    8:40pm <strong>Andrew</strong></br>
+    9:00pm <strong>Tejas</strong></br>
+    9:20pm <strong>Javier</strong></br>
+    9:40pm <strong>Zijun</strong></br>
+    10:00pm <strong>Nabil</strong></br>
     </td>
-    <td>7:30 Class Begins<br>
-    7:40pm Julie<br>
-    8:00pm Julien<br>
-    8:20pm Chengyang<br>
-    8:40pm Jiani<br>
-    9:00pm Hill<br>
-    9:20pm Yang<br>
-    9:40pm Yizhou<br>
-    10:00pm Jonathan<br>
+    <td>7:30pm Class Begins</br>
+    7:40pm <strong>Julie</strong></br>
+    8:00pm <strong>Julien</strong></br>
+    8:20pm <strong>Chengyang</strong></br>
+    8:40pm <strong>Jiani</strong></br>
+    9:00pm <strong>Hill</strong></br>
+    9:20pm <strong>Yang</strong></br>
+    9:40pm <strong>Yizhou</strong></br>
+    10:00pm <strong>Jonathan</strong></br>
     </td>
 </tr>
 </table>
