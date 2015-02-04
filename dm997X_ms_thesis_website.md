@@ -35,6 +35,7 @@ Also the following PDFs contain excellent examples of possible entries:
   * at least, 1 post per week DUE at noon on Mondays. If it is not posted by noon, you will not receive credit. 
   * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
   * Project Advisor Meeting Documentation (2-4x)
+  * pdfs of any presentations (annotated)
   * Milestones / Tasks that have been completed (transcribed from your personal kanban)
   * Include who or what was involved.
   * Include images, illustrations, audio, video, snippets of research, ANNOTATED links, etc. relevant to your thesis. 
