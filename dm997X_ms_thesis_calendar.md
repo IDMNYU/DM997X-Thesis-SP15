@@ -97,9 +97,9 @@
         </ul>
     </td> 
 </tr>
-<tr>
-    <td colspan="2"><strong><font color="red">Waiting for Registrar to release makeup date before I revise the calendar dates following this row.</font></strong></td>
-</tr>
+</table>
+# Waiting for Registrar to release makeup date before I revise the calendar dates following this row.
+<table>
 <tr>
     <td></td>
     <td>
