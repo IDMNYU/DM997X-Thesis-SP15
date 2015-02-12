@@ -87,6 +87,7 @@
     <td>Mon, Feb 23</td>
     <td>
         <ul>
+        <li><strong>Conduct Research</strong></li>
         <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 1st Draft (Do this BEFORE creating your written outline)</li>
         <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 1st Draft</li>
         <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 2nd Draft</li>
