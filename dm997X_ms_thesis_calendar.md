@@ -8,8 +8,6 @@
 
 ---
 
-
-
 ## CALENDAR
 
 
@@ -41,6 +39,10 @@
 </tr>
 <tr>
     <td>Mon, Jan 26</td>
+    <td>NYU cancels all classes due to weather</td>
+</tr>
+<tr>
+    <td>Mon, Feb 02</td>
     <td>
         <ul>
         <li>Guest Talk: Eddie Chen, IDM MS '14</li>
@@ -59,17 +61,9 @@
     </td>  
 </tr>
 <tr>
-    <td>Mon, Feb 02</td>
-    <td>
-    <ul>
-    <li>Discuss <a href="http://gitprint.com/" target="_blank">gitprint.com</a>
-    <li>In-Class Exercise (Post-its): What did you like and didn’t like from pre-thesis and why?</li>
-            <ul>
-            <li>Assignments</li>
-            <li>Classmates</li>
-            <li>Classroom Environment</li>
-            <li>Resources (Software, Books, etc.)</li>
-            </ul>
+    <td>Mon, Feb 09</td>
+    <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (to receive 100% of tuition &amp; fees)
+    <ul> 
     <li>Install <a href="http://rescuetime.com" target="_blank">RescueTime</a> and populate categories and productivity values.</li>
     <li><strong>Populate a calendar</strong> (google, iCal, or non-digital) with due dates for this class</li>
     <li>Read <a href="http://thesiswhisperer.com/2011/03/24/how-to-write-1000-words-a-day-and-not-go-bat-shit-crazy" target="_blank">How To Write X Number of Words a Day &amp; Not Go Crazy</a></li>
@@ -82,10 +76,19 @@
     </td> 
 </tr>
 <tr>
-    <td>Mon, Feb 09</td>
-    <td><strong><i>LAST DAY OF DROP/ADD</i></strong> (to receive 100% of tuition &amp; fees)
+    <td>Mon, Feb 16</td>
+    <td>NO CLASS: PRESIDENT's DAY</td>
+</tr>
+<tr>
+    <td>Tue, Feb 17</td>
+    <td><strong><i>LAST DAY TO DROP</i></strong> (and not receive a grade of 'W')</td> 
+</tr>
+<tr>
+    <td>Mon, Feb 23</td>
+    <td>
         <ul>
-        <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 1st Draft</li>
+        <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 1st Draft (Do this BEFORE creating your written outline)</li>
+        <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 1st Draft</li>
         <li><strong><a href="dm997X_ms_thesis_project.md">Project Milestones</a></strong> 2nd Draft</li>
         <li><strong><a href="dm997X_ms_thesis_paper.md">Thesis Statement</a></strong> 2nd Draft</li>
         <li>In-class peer critiques</li>
@@ -94,14 +97,12 @@
     </td> 
 </tr>
 <tr>
-    <td>Tue, Feb 17</td>
-    <td><strong><i>LAST DAY TO DROP</i></strong> (and not receive a grade of 'W')</td> 
+    <td colspan="2"><strong><font color="red">Waiting for Registrar to release makeup date before I revise the calendar dates following this row.</font></strong></td>
 </tr>
 <tr>
-    <td>Mon, Feb 16</td>
+    <td></td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Written Outline</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Visual Outline or Mind Map</a></strong> 2nd Draft</li>
     <li>In-class peer critiques</li>
     <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group A</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates / <a href="dm997X_ms_thesis_assignments.md">Resume, Cover Letter, and LinkedIn Profile Drafts</a></li>
