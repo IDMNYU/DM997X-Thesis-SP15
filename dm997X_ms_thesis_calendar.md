@@ -39,7 +39,7 @@
 </tr>
 <tr>
     <td>Mon, Jan 26</td>
-    <td>NYU cancels all classes due to weather</td>
+    <td><strong><i>NYU CANCELS ALL CLASSES due to weather</i></strong></td>
 </tr>
 <tr>
     <td>Mon, Feb 02</td>
@@ -77,7 +77,7 @@
 </tr>
 <tr>
     <td>Mon, Feb 16</td>
-    <td>NO CLASS: PRESIDENT's DAY</td>
+    <td><strong><i>NO CLASS: PRESIDENT'S DAY</i></strong></td>
 </tr>
 <tr>
     <td>Tue, Feb 17</td>
@@ -98,7 +98,7 @@
     </td> 
 </tr>
 </table>
-# Waiting for Registrar to release makeup date before I revise the calendar dates following this row.
+# Waiting for Registrar to release makeup date before I revise the following calendar dates.
 <table>
 <tr>
     <td></td>
