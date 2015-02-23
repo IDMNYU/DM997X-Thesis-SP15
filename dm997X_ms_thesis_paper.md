@@ -16,6 +16,16 @@ Master's Thesis and Project Guidelines_March2014 version.pdf, the word templates
 ### Assignment: The “elevator pitch” / Thesis Statement
 Read [Indiana University's How To Write a Thesis Statement] (http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
 
+First, ask yourself what question is your research trying to answer? Please read the above link.
+
+Secondly, tun that question into a statement.
+
+Here's a guide for a starting point. 
+
+*(Working Title)* is a *(What is it?)* that *(What does it do?)* for *(Your Audience)* to *(Why? What's the purpose)*. Note: Obviously you would not leave the parenthesis, it's a just a marker to denote what you should add.
+
+Do not use **I** in your thesis statement.
+
 ### Assignment: Visual Outline or Mind Map
 Read [Columbia University's Skimming vs. Reading] (http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Skimming) and [Columbia University's Order of Writing] (http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Order) at http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html BEFORE creating your visual outline. Use the figures, graphs, and illustrations you will use in your paper. This visual outline will also be extremely helpful in your project presentations and (mock) thesis defenses. 
 
