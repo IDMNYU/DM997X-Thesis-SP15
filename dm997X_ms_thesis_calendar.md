@@ -116,9 +116,8 @@
     <td>Mon, Mar 09</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft</li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft</li>
     <li>In-class peer critiques</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft</li> 
     <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings <a href="dm997X_ms_thesis_project.md">(Project Alpha)</a> / Personal Kanban / Self Assessment / Project Website Updates / <a href="dm997X_ms_thesis_assignments.md">Portfolio Website Drafts</a></li>
     </ul> 
     </td> 
@@ -134,7 +133,10 @@
     <td>
     <ul>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li> 
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 3rd Draft</li>
+
     </ul>     
     </td> 
 </tr>
@@ -143,7 +145,10 @@
     <td>
     <ul>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></li> 
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 2nd Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 2nd Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 4th Draft</li>
+ 
     </ul> 
     </td> 
 </tr>
