@@ -112,11 +112,11 @@ Your thesis is under the guidance of faculty and a community of peers, both insi
 #### Thesis Faculty
 The Thesis faculty (for this class De Angela L. Duff) is the primary critic and mentor throughout the thesis process. 
 
-####Project Advisor
-You will meet with your Project Advisor at least 2 to 4 times throughout the semester for feedback on your thesis paper, project, and/or defense presentation. *Document* your meetings with your advisor (date, time, length, and typed notes) on your thesis website.
+#### Thesis Project Advisor
+You will meet with your Thesis Project Advisor at least 2 to 4 times throughout the semester for feedback on your thesis paper, project, and/or defense presentation. *Document* your meetings with your advisor (date, time, length, and typed notes) on your thesis website. Your Thesis Project Advisor attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
 
 ####External Reviewer
-The External Reviewer is identified in consultation with your Project Advisor. The Thesis Faculty or IDM's Academic Advisor will contact the External Reviewer to determine their availability for the Thesis Defense. The External Reviewer attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
+The External Reviewer is identified in consultation with your Thesis Project Advisor. The Thesis Faculty or IDM's Academic Advisor will contact the External Reviewer to determine their availability for the Thesis Defense. The External Reviewer attends your Thesis Defense Panel, and will be given a digital copy of your Thesis paper for review.
 
 ####Thesis Peers
 Your fellow graduate students are considered to be peers in the discussion and dialogue of your thesis. Students are strongly encouraged to share research and resources as well as critique from their peers. Utilize the grad studio MAGNET 804 to hold informal critiques and discussion outside of class.

@@ -16,17 +16,18 @@ Master's Thesis and Project Guidelines_March2014 version.pdf, the word templates
 ### Assignment: The “elevator pitch” / Thesis Statement
 Read [Indiana University's How To Write a Thesis Statement] (http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml) BEFORE you write your thesis statement.
 
-First, ask yourself what question is your research trying to answer? Please read the above link.
+* First, ask yourself what question is your research trying to answer? Please read the above link.
 
-Secondly, tun that question into a statement.
+* Secondly, tun that question into a statement.
+* Do not use **I** in your thesis statement.
 
-Here's a guide for a starting point. 
+Here's a guide for a starting point: 
 
-** *(Working Title)* is a *(What is it?)* that *(What does it do?)* for *(Your Audience)* to *(Why? What's the purpose)*.** 
+***(Working Title)* is a *(What is it?)* that *(What does it do?)* for *(Your Audience)* to *(Why? What's the purpose)*.** 
 
 *Note: Obviously you would not leave the parenthesis, it's a just a marker to denote what you should add.*
 
-Do not use **I** in your thesis statement.
+
 
 ### Assignment: Visual Outline or Mind Map
 Read [Columbia University's Skimming vs. Reading] (http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Skimming) and [Columbia University's Order of Writing] (http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html#Order) at http://www.ldeo.columbia.edu/~martins/sen_sem/thesis_org.html BEFORE creating your visual outline. Use the figures, graphs, and illustrations you will use in your paper. This visual outline will also be extremely helpful in your project presentations and (mock) thesis defenses. 
@@ -76,6 +77,11 @@ BEFORE you write your body, read:
     * *Research:* Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, tech research, material research, visual research, collection, interviews, observation, etc.
         * You should decide what kinds of research / reference / inspiration is most appropriate for your project. 
     * *Research Methods:* Information about your research strategy, data collection techniques, how you intend to analyze your collected data and limitations of your research. 
+      * Identify your research strategy (case study, survey, grounded theory, experimental research, etc.)
+      * Justify why your chosen research strategy meets your research needs  
+      * Describe your data collection techniques (interviews, questionnaires, documents, observation, types of experiments, etc.)
+      * Explain where you will get your data, and state your sample size– Summarize the above, using diagrams where possible
+      * Explain how you will analyse your collected data (framework for data analysis)* Outline limitations/potential problems (but explain why your work is valid and reliable)
 
 * **Design** (including, but not limited to)
     * design sketches, process maps, drawings, wireframes / schematics, storyboards, comps, mood boards, concept boards, screen shots, videos, diagrams, images 
