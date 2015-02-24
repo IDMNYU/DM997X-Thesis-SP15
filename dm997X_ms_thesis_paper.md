@@ -45,7 +45,7 @@ Read [Indiana University's Using Outlines] (http://www.indiana.edu/~wts/pamphlet
 ### Assignment: Detailed Written Outline
 Review [Indiana University's Using Outlines] (http://www.indiana.edu/~wts/pamphlets/outlines.shtml), BEFORE you write your detailed outline.
 
-Create a more detailed written outline by fleshing out they key points of your topics and/or subtopics.
+Create a more detailed written outline by fleshing out they key points of your topics and/or subtopics of your initial written outline.
 
 * Section Title
   * Subsection (Optional)
@@ -76,19 +76,19 @@ BEFORE you write your body, read:
     * *Research:* Including, but not limited to, brainstorming (thought maps, word lists, etc.), readings, screenings / viewings, investigation of other artists, designers, or entrepreneur’s work, tech research, material research, visual research, collection, interviews, observation, etc.
         * You should decide what kinds of research / reference / inspiration is most appropriate for your project. 
     * *Research Methods:* Information about your research strategy, data collection techniques, how you intend to analyze your collected data and limitations of your research. 
- * **Resources** (including, but not limited to)
-    * List of Collaborators, Participants, and Advisors (People and their roles). Be Specific. First &amp; Last Names and URLs if available
-    * Materials &amp; Vendors List
-    * Technical requirements
-    * Budget
-  You should decide what kinds of resources are most appropriate for your project. (How are you achieving this?)
-    
 
 * **Design** (including, but not limited to)
     * design sketches, process maps, drawings, wireframes / schematics, storyboards, comps, mood boards, concept boards, screen shots, videos, diagrams, images 
         <ul>
         <li>You should decide which processes are most appropriate for your project.</li>
         </ul>
+
+* **Resources** (including, but not limited to)
+    * List of Collaborators, Participants, and Advisors (People and their roles). Be Specific. First &amp; Last Names and URLs if available
+    * Materials &amp; Vendors List
+    * Technical requirements
+    * Budget
+  You should decide what kinds of resources are most appropriate for your project. (How are you achieving this?)
 
 * **Development**
     * Prototype(s) – including, but not limited to, exercises, tests, models, maquettes, animatics 
@@ -104,16 +104,17 @@ BEFORE you write your body, read:
 * **User Testing**
     * Results: Information about the data you collected at each stage of development and how it compares against your Literature Review, Related Work, or Competitive Analysis findings.
 
-### Assignment: Abstract and Intro (Background/Context/Rationale)
-BEFORE you write your abstract, read:
-* [Indiana University's Writing Abstracts] (http://www.indiana.edu/~wts/pamphlets/abstracts.shtml)
-* Chapter 10, Finally: Writing the abstract, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
+
+### Assignment: Intro (Background/Context/Rationale)
 BEFORE you write your intro, read:
 * [Indiana University's Paragraphs and Topic Sentences] (http://www.indiana.edu/~wts/pamphlets/paragraphs.shtml)
 * Chapter 4, The dissertation Introduction, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
-* Background information
+General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam 
+
+* Provide background information on research topic
+* Justify the need for your study
 * **Discuss Your motivation, drive, and/or purpose**
 Read <i>Do The Work</i> and answer the following questions in context of your thesis.
     <ul>
@@ -128,15 +129,41 @@ Read <i>Do The Work</i> and answer the following questions in context of your th
     <li>What do you want your target audience to experience when they interact with your thesis?</li>
     </ul>
 (Who is this thesis for? Please note that everyone is not a valid answer. Target is the key word here.)
-* Research focus and objectives
-* Outline research plan. 
-* Value of your Research.
+* Identify overall research focus and specific research objectives
+* Outline your research plan / methods
+* Show initiative (in sourcing information)
+* Produce clear, achievable research objectives
+* Emphasize the value of/need for your research
+
 
 ### Assignment: Conclusion
 BEFORE you write your conclusion, read:
 * [Indiana’s University’s Writing Conclusions] (http://www.indiana.edu/~wts/pamphlets/conclusions.shtml)
 * Chapter 9, Concluding your dissertation, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
 
+General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam 
+
+* Remind reader of your initial research objectives  
+* Summarize Literature Review, Comparative Analysis, and Research findings (related to research objectives) 
+* Elicit main conclusions from your findings
+* Offer recommendations (specific to your research objectives), including ideas about implementation
+* Include self-reflection (limitations of study, lessons learnt, advice to others)
+
+
+### Assignment: Abstract
+BEFORE you write your abstract, read:
+* [Indiana University's Writing Abstracts] (http://www.indiana.edu/~wts/pamphlets/abstracts.shtml)
+* Chapter 10, Finally: Writing the abstract, in [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam (available for download via Bobst's ebrary)
+
+General Notes adopted from [Succeeding with your master's dissertation a step-by-step handbook] (https://getit.library.nyu.edu/go/6809674) by John Biggam 
+
+* Write it last! 
+* Identify the problem/issue that you investigated 
+* Outline how you did your research (i.e. your research methods)
+* State your main findings/conclusion(s) 
+* Indicate your recommendations 
+* Include keywords 
+* Keep to one paragraph (it is not an essay!)
 
 
 ### Assignment: Proofread
