@@ -108,9 +108,6 @@
     </ul> 
     </td> 
 </tr>
-</table>
-# Waiting for Registrar to release makeup date before I revise the following calendar dates and add <a href="dm997X_ms_thesis_assignments.md">Resume, Cover Letter, and LinkedIn Profile Drafts</a> / <a href="dm997X_ms_thesis_assignments.md">Portfolio Website Drafts</a>
-<table>
 <tr>
     <td>Mon, Mar 09</td>
     <td>
@@ -126,6 +123,10 @@
     <td>Mon, Mar 16</td>
     <td><strong><i>Spring Break - NO CLASS</i></strong></td> 
 </tr>
+</table>
+# Waiting for Registrar to release makeup date before I revise the following calendar dates and add <a href="dm997X_ms_thesis_assignments.md">Resume, Cover Letter, and LinkedIn Profile Drafts</a> / <a href="dm997X_ms_thesis_assignments.md">Portfolio Website Drafts</a>
+<table>
+
 
 <tr>
     <td>Mon, Mar 23</td>
