@@ -112,8 +112,8 @@
     <td>Mon, Mar 09</td>
     <td>
     <ul>
-    <li>In-class peer critiques: Body Drafts (Bring at least 1 printed copy (ideally 2) to class so that a classmate can read and edit your document during class.)</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 1st Draft</li> 
+    <li>In-class peer critiques: Body Drafts (Bring at least 1 printed copy (ideally 2) to class so that a classmate can read and edit your document during class.)</li>
      <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
     </ul> 
     </td> 
@@ -135,7 +135,8 @@
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
     
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft</li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft</li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft (Please have someone other than your self read and edit your document before you turn it in.
+Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )</li>
 
     </ul>     
     </td> 
