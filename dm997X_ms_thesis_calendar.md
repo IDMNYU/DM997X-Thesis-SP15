@@ -112,7 +112,7 @@
     <td>Mon, Mar 09</td>
     <td>
     <ul>
-    <li>In-class peer critiques</li>
+    <li>In-class peer critiques: Body Drafts (Bring at least 1 printed copy (ideally 2) to class so that a classmate can read and edit your document during class.)</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 1st Draft</li> 
      <li><a href="dm997X_ms_thesis_groups.md" target="_blank">Group B</a>: Individual Meetings / Personal Kanban / Self Assessment / Project Website Updates</li>
     </ul> 
@@ -133,7 +133,7 @@
     <td>
     <ul>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft</li>
+    
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 1st Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 2nd Draft</li>
 
@@ -145,7 +145,7 @@
     <td>
     <ul>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 2nd Draft</li>
+    
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 2nd Draft</li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Body</a></strong> 3rd Draft</li>
  
@@ -163,6 +163,7 @@
     <ul>
     <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li> 
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft</li>
     </ul> 
     </td> 
 </tr>
@@ -172,6 +173,7 @@
     <ul>
     <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></li> 
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 2nd Draft</li>
     </ul> 
     </td> 
 </tr>
