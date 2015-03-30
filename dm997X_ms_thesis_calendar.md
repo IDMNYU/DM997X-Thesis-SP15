@@ -140,7 +140,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>Mon, Mar 30</td>
     <td>
     <ul>
-    <li>Schedule one on one, 30 minute appointments for midterm assessment. Bring your printed self-assessments with you to your scheduled one one appointments.</li>
+    <li><strong>Schedule one on one, 30 minute appointments for midterm assessment.</strong> Bring your printed self-assessments with you to your scheduled one one appointments.</li>
     <li><strong><a href="dm997X_ms_thesis_project.md">Project Beta <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
     
     <li><strong><a href="dm997X_ms_thesis_paper.md">Intro</a></strong> 2nd Draft</li>
