@@ -162,7 +162,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>Mon, Apr 06</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_defense.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li> 
     <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft</li>
     </ul> 
@@ -173,7 +173,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>Mon, Apr 13</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_defense.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></li> 
     <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 2nd Draft</li>
     </ul> 
@@ -205,7 +205,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>Mon, May 04</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 1st Draft</li>
     <li><strong>Share your <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 1st Draft with your project advisor if you have not already done so.</li>
     </ul>
@@ -216,7 +216,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>Mon, May 11</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 2nd Draft</li> 
     </ul> 
     (Please have someone other than your self read and edit your compiled thesis paper before you turn it in. (Even better, have someone read your it out loud to you AND make an appointment at the writing center.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )      
