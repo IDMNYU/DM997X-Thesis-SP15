@@ -8,8 +8,8 @@
 
 ---
 
-## Project Presentations & Mock Thesis Defenses
-Project critiques or mock thesis defenses will be held on designated Mondays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
+## Mock Thesis Defenses
+Mock thesis defenses will be held on designated Mondays, and will consist of the professor, ALL thesis students, and outside critics, at times. 
 
      Each presentation will consist of 
      * 10 minutes of presentation and 
