@@ -162,7 +162,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>Mon, Apr 06</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_defense.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li> 
     <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft</li>
     </ul> 
@@ -173,7 +173,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>Mon, Apr 13</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_project.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_defense.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></li> 
     <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 2nd Draft</li>
     </ul> 
