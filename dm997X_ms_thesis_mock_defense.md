@@ -34,10 +34,10 @@ You should present an audio *(if needed)*, visual presentation using powerpoint,
 * **Introduce yourself** (as if we did not know you.)
 * State **Thesis Statement** (including **target** audience; as I've said many times before everyone or anybody is NOT a target audience)
 * **Demo your project**
-* **State Your Motivation** Why are you doing this project?
+* **State Your Motivation** (Why are you doing this project?)
 * **Show Your Influences** (Competitive or Comparative Analysis of at least 3 other examples of work in the same space)
 * **Discuss how your project is advancing your chosen area**
-* **Show Research, Design, and Development** (including project iterations)
+* **Show Research, Design, and Development** (including project iterations and identify your collaborators by name)
 * **Discuss User Testing**
 * **Discuss Findings**
 * **Discuss Plans or Wishes for Future Iterations**
