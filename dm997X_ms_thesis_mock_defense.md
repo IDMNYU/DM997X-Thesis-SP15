@@ -26,10 +26,10 @@ Rules of the Critique:
 * Give Feedback to your classmates.
 * Do NOT take feedback personally.
 
-### General Guideline for your Mock Thesis Defense Presentation
+### General Guidelines for your Mock Thesis Defense Presentation
 *This is a general guideline for your mock thesis defense. You can obviously change this to suit your project needs.*
 
-You should present a audio (if needed), visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.
+You should present an audio *(if needed)*, visual presentation using powerpoint, keynote, prezi, pdf, video, image files, etc.
 
 * **Introduce yourself** (as if we did not know you.)
 * State **Thesis Statement** (including **target** audience; as I've said many times before everyone or anybody is NOT a target audience)
