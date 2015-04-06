@@ -222,7 +222,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>May 15</td>
     <td><strong>Bound Thesis Paper Due to Eric Maiello.</strong> 
     <ul>
-    <li>See instructions on how to get them printed in NYU SoE's Thesis guidelines which you can download from basecamp under Files (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)</li>
+    <li>See instructions on how to get them printed in NYU SoE's Thesis guidelines which you can download from basecamp under <a href="http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf" target="_blank">Files</a></li>
     </ul></td>
 </tr>
 <tr>
