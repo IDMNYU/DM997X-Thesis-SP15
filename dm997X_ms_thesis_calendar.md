@@ -180,7 +180,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>Mon, Apr 20</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Gold Presentations <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li> 
     </ul> 
     (Please have someone other than your self read and edit your Vita, Acknowledgements (optional), and Dedication (optional) before you turn it in. (Even better, have someone read your intro and body out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )
@@ -190,8 +190,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>Mon, Apr 27</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
-    <li><strong>Share your <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 1st Draft with your project advisor if you have not already done so.</li>
+    <li><strong><a href="dm997X_ms_thesis_project.md">Project Gold Presentations <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_assignments.md">Dropbox link of deliverables for the ms thesis catalog</a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></li> 
     </ul>
@@ -202,20 +201,30 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>Mon, May 04</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 2nd Draft</li> 
-    
-    
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft </a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 1st Draft</li>
+    <li><strong>Share your <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 1st Draft with your project advisor if you have not already done so.</li>
     </ul>
     (Please have someone other than your self read and edit your compiled thesis paper before you turn it in. (Even better, have someone read your it out loud to you AND make an appointment at the writing center.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor ) 
     </td> 
 </tr>
 <tr>
-    <td>May 7, 8, 11, and 12 (4 per day)</td>
-    <td><strong><a href="dm997X_ms_thesis_defense.md">Thesis Defenses</a></strong></td>
+    <td>Mon, May 11</td>
+    <td>
+    <ul>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 2nd Draft</li> 
+    </ul> 
+    (Please have someone other than your self read and edit your compiled thesis paper before you turn it in. (Even better, have someone read your it out loud to you AND make an appointment at the writing center.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )      
+    </td> 
 </tr>
 <tr>
     <td>Tue, May 12</td>
     <td><i>Reading Days for NYU School of Engineering Grad Classes</i></td> 
+</tr>
+<tr>
+    <td>May 7, 8, 11, and 12 (4 per day)</td>
+    <td><strong><a href="dm997X_ms_thesis_defense.md">Thesis Defenses</a></strong></td>
 </tr>
 <tr>
     <td>May 15</td>
