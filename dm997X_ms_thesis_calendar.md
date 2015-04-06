@@ -159,7 +159,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>
     <ul>
     <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li> 
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 1st Draft </li> 
     <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 1st Draft</li>
     </ul> 
     (Please have someone other than your self read and edit your conclusion and abstract before you turn it in. (Even better, have someone read them out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )
@@ -170,7 +170,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>
     <ul>
     <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></li> 
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Conclusion</a></strong> 2nd Draft</li> 
     <li><strong><a href="dm997X_ms_thesis_paper.md">Abstract</a></strong> 2nd Draft</li>
     </ul> 
     (Please have someone other than your self read and edit your conclusion and abstract before you turn it in. (Even better, have someone read them out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )
@@ -220,7 +220,10 @@ Include that person's name [and their title and/or relationship with you (if not
 </tr>
 <tr>
     <td>May 15</td>
-    <td>Bound Thesis Paper Due to Eric Maiello. See instructions on how to get them printed in NYU SoE's Thesis guidelines which you can download from basecamp under Files (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)</td>
+    <td><strong>Bound Thesis Paper Due to Eric Maiello.</strong> 
+    <ul>
+    <li>See instructions on how to get them printed in NYU SoE's Thesis guidelines which you can download from basecamp under Files (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)</li>
+    </ul></td>
 </tr>
 <tr>
     <td>May 13-19 TBD</td>
