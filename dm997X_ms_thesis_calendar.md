@@ -180,8 +180,7 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>Mon, Apr 20</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li> 
+    <li><strong>10 minute <a href="dm997X_ms_thesis_project.md">Project Gold Presentations</a></strong> for ALL students.</li>
     </ul> 
     (Please have someone other than your self read and edit your Vita, Acknowledgements (optional), and Dedication (optional) before you turn it in. (Even better, have someone read your intro and body out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )
     </td> 
@@ -190,10 +189,11 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>Mon, Apr 27</td>
     <td>
     <ul>
-    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></a></strong></li>
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></li> 
     <li><strong>Share your <a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 1st Draft with your project advisor if you have not already done so.</li>
     <li><strong><a href="dm997X_ms_thesis_assignments.md">Dropbox link of deliverables for the ms thesis catalog</a></strong></li>
-    <li><strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></li> 
+     
     </ul>
     (Please have someone other than your self read and edit your Vita, Acknowledgements (optional), and Dedication (optional) before you turn it in. (Even better, have someone read them out loud to you.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor )     
     </td> 
@@ -202,8 +202,9 @@ Include that person's name [and their title and/or relationship with you (if not
     <td>Mon, May 04</td>
     <td>
     <ul>
+    <li><strong><a href="dm997X_ms_thesis_mock_defense.md">Mock Thesis Defense 2nd Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group B)</a></a></strong></li>
     <li><strong><a href="dm997X_ms_thesis_paper.md">Compiled Thesis Paper</a></strong> 2nd Draft</li> 
-    
+    <li><strong><a href="dm997X_ms_thesis_paper.md">Vita, Acknowledgements (optional), and Dedication (optional)</a></strong> 1st Draft <a href="dm997X_ms_thesis_groups.md" target="_blank">(Group A)</a></li>
     
     </ul>
     (Please have someone other than your self read and edit your compiled thesis paper before you turn it in. (Even better, have someone read your it out loud to you AND make an appointment at the writing center.) Include that person's name [and their title and/or relationship with you (if not a classmate)] at the top of the paper as Editor ) 
