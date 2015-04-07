@@ -220,7 +220,7 @@ Include that person's name [and their title and/or relationship with you (if not
 </tr>
 <tr>
     <td>May 15</td>
-    <td><strong>Bound Thesis Paper Due to Eric Maiello.</strong> 
+    <td><strong>**3 Bound Copies** of Your Thesis Paper on *acid-free paper* due to Eric Maiello. If you want a bound copy for yourself, bind 4. </strong> 
     <ul>
     <li>See instructions on how to get them printed in NYU SoE's Thesis guidelines which you can download from basecamp under <a href="http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf" target="_blank">Files</a></li>
     </ul></td>
