@@ -15,18 +15,24 @@ The Thesis Defense Panel is comprised of:
 * One or both IDM Co-Directors
 * Your Project Advisor
 * An External Examiner
-* Thesis Peers
+
+Your Thesis Peers can also attend your presentation and Q&A.
 
 See <a href="dm997X_ms_thesis_syllabus.md">syllabus</a> for descriptions of these thesis roles.
 
-Your thesis defenses may be recorded for documentation for IDM's websites. If you are not comfortable with possibly having your defense documented, let IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, know as soon as possible.
+Your thesis defenses *may* be recorded for documentation for IDM's websites. If you are not comfortable with possibly having your defense documented, let IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, know as soon as possible.
 
 
 ## BEFORE THE THESIS DEFENSE
-Send IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, a PDF of your complete thesis paper draft by Date TBD.
+Send IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, a PDF of your complete thesis paper draft by Date TBD so he can send it to your external examiner. You should also send a copy to your project advisor. You should send it at least a week before so everyone has time to read it and make suggestions on how to make it a stronger thesis.
 
 
 ## AT THE THESIS DEFENSE
+
+* You will have 20 minutes to present.
+* There will be 20 minutes of Q&A.
+* There will be 20 minutes of deliberation by your Thesis Panel.
+
 Bring *3 copies of the signature pages on acid-free paper* (what you will print the final Thesis on) or 4 copies if you want to get a bound copy for yourself to the Defense for signing. Please note that there are two different signature pages.
 
 The first is seen in the [NYU SoE's Thesis guidelines] (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf), (also on Masters_Thesis_Project_Guidelines_March2014_version.pdf on basecamp under Files), and contains spacing for:
