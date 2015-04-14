@@ -9,7 +9,7 @@
 ---
 
 
-Thesis Defenses will be open to NYU Faculty, Staff, and Students from May 7,8, 11, or 12. Date, Time, and Room to be determined.
+Thesis Defenses will be open to NYU Faculty, Staff, and Students from May 7,8, 11, or 12. Date, Time, and MAGNET Room to be determined.
 
 The Thesis Defense Panel is comprised of:
 * One or both IDM Co-Directors
