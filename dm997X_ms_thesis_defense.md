@@ -49,7 +49,7 @@ Your thesis defenses *may* be recorded for documentation for IDM's websites. If 
     <td>3pm</td>
     <td>824</td>
     <td>Javier</td>
-    <td>Toni</td>
+    <td>Toni Dove</td>
     <td>Dana</td>
 </tr>
 <tr>
