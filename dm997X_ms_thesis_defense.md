@@ -33,7 +33,7 @@ Your thesis defenses *may* be recorded for documentation for IDM's websites. If 
     <td>Project Advisor</td>
 </tr>
 <tr>
-    <td colspan="5">Mon May 4(this is an exception)</td>
+    <td colspan="5"><strong>Mon May 4 (this is an exception)</strong></td>
 </tr>
 <tr>
     <td>1pm</td>
@@ -43,7 +43,7 @@ Your thesis defenses *may* be recorded for documentation for IDM's websites. If 
     <td>Phoenix</td>
 </tr>
 <tr>
-    <td colspan="5">Thu May 7</td>
+    <td colspan="5"><strong>Thu May 7</strong></td>
 </tr>
 <tr>
     <td>3pm</td>
@@ -53,7 +53,7 @@ Your thesis defenses *may* be recorded for documentation for IDM's websites. If 
     <td>Dana</td>
 </tr>
 <tr>
-    <td colspan="5">Fri May 8</td>
+    <td colspan="5"><strong>Fri May 8</strong></td>
 </tr>
 <tr>
     <td>11am</td>
@@ -63,7 +63,7 @@ Your thesis defenses *may* be recorded for documentation for IDM's websites. If 
     <td>Mark</td>
 </tr>
 <tr>
-    <td colspan="5">Mon May 11</td>
+    <td colspan="5"><strong>Mon May 11</strong></td>
 </tr>
 <tr>
     <td>10am</td>
@@ -87,7 +87,7 @@ Your thesis defenses *may* be recorded for documentation for IDM's websites. If 
     <td>Beth</td>
 </tr>
 <tr>
-    <td colspan="5">Tue May 12</td>
+    <td colspan="5"><strong>Tue May 12</strong></td>
 </tr>
 <tr>
     <td>1pm</td>
@@ -104,7 +104,7 @@ Your thesis defenses *may* be recorded for documentation for IDM's websites. If 
     <td>Brian</td>
 </tr>
 <tr>
-    <td colspan="5">Thu May 14 (this is an exception)</td>
+    <td colspan="5"><strong>Thu May 14 (this is an exception)</strong></td>
 </tr>
 <tr>
     <td>5pm</td>
