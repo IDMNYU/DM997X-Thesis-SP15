@@ -73,13 +73,6 @@ Your thesis defenses *may* be recorded for documentation for IDM's websites. If 
     <td>Mark</td>
 </tr>
 <tr>
-    <td>1pm</td>
-    <td>811</td>
-    <td>Yang</td>
-    <td>Kathy Brew</td>
-    <td>Beth</td>
-</tr>
-<tr>
     <td>3pm</td>
     <td>811</td>
     <td>Nabil</td>
