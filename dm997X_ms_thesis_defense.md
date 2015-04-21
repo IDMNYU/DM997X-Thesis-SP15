@@ -22,9 +22,101 @@ See <a href="dm997X_ms_thesis_syllabus.md">syllabus</a> for descriptions of thes
 
 Your thesis defenses *may* be recorded for documentation for IDM's websites. If you are not comfortable with possibly having your defense documented, let IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, know as soon as possible.
 
+##THESIS DEFENSE SCHEDULE
+
+<table>
+<tr>
+    <td>Date &amp; Time</td>
+    <td>Room</td>
+    <td>Student</td>
+    <td>External Examiner</td>
+    <td>Project Advisor</td>
+</tr>
+<tr>
+    <td colspan="5">Mon May 4(this is an exception)</td>
+</tr>
+<tr>
+    <td>1pm</td>
+    <td>811</td>
+    <td>Billy</td>
+    <td>Daisy Rosario</td>
+    <td>Phoenix</td>
+</tr>
+<tr>
+    <td colspan="5">Thu May 7</td>
+</tr>
+<tr>
+    <td>3pm</td>
+    <td>824</td>
+    <td>Javier</td>
+    <td>Toni</td>
+    <td>Dana</td>
+</tr>
+<tr>
+    <td colspan="5">Fri May 8</td>
+</tr>
+<tr>
+    <td>11am</td>
+    <td>824</td>
+    <td>Julie</td>
+    <td>Joanne Tombrakos</td>
+    <td>Mark</td>
+</tr>
+<tr>
+    <td colspan="5">Mon May 11</td>
+</tr>
+<tr>
+    <td>10am</td>
+    <td>822</td>
+    <td>Jiani</td>
+    <td>Matthew Hurst</td>
+    <td>Mark</td>
+</tr>
+<tr>
+    <td>1pm</td>
+    <td>811</td>
+    <td>Yang</td>
+    <td>Kathy Brew</td>
+    <td>Beth</td>
+</tr>
+<tr>
+    <td>3pm</td>
+    <td>811</td>
+    <td>Nabil</td>
+    <td>Christina</td>
+    <td>Beth</td>
+</tr>
+<tr>
+    <td colspan="5">Tue May 12</td>
+</tr>
+<tr>
+    <td>1pm</td>
+    <td>811</td>
+    <td>Chengyang</td>
+    <td>Dr. Melba Sullivan</td>
+    <td>Brian</td>
+</tr>
+<tr>
+    <td>3pm</td>
+    <td>811</td>
+    <td>Yinfeng (Andrew)</td>
+    <td>Beatrice Upenieks</td>
+    <td>Brian</td>
+</tr>
+<tr>
+    <td colspan="5">Thu May 14 (this is an exception)</td>
+</tr>
+<tr>
+    <td>5pm</td>
+    <td>817</td>
+    <td>Julien</td>
+    <td>Michelle Schiano</td>
+    <td>Kato</td>
+</tr>
+</table>
 
 ## BEFORE THE THESIS DEFENSE
-Send IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, a PDF of your complete thesis paper draft by Date TBD so he can send it to your external examiner. You should also send a copy to your project advisor. You should send it at least a week before so everyone has time to read it and make suggestions on how to make it a stronger thesis.
+Send IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, a PDF of your complete thesis paper draft by at least a week before your thesis defense so he can send it to your external examiner. You should also send a copy to your project advisor and thesis instructor by April 27th. You want to make sure that everyone has time to read it and make suggestions on how to make it a stronger thesis. 
 
 
 ## AT THE THESIS DEFENSE
