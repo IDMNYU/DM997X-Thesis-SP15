@@ -83,7 +83,7 @@ Your thesis defenses *may* be recorded for documentation for IDM's websites. If 
     <td>3pm</td>
     <td>811</td>
     <td>Nabil</td>
-    <td>Christina</td>
+    <td>Christina Yang</td>
     <td>Beth</td>
 </tr>
 <tr>
