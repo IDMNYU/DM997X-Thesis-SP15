@@ -46,6 +46,20 @@ Your thesis defenses *may* be recorded for documentation for IDM's websites. If 
     <td colspan="5"><strong>Thu May 7</strong></td>
 </tr>
 <tr>
+    <td>11am</td>
+    <td>817</td>
+    <td>Zijun</td>
+    <td>Jim Lewis</td>
+    <td>Toni</td>
+</tr>
+<tr>
+    <td>1pm</td>
+    <td>811</td>
+    <td>Zoey</td>
+    <td>Chris Ricca</td>
+    <td>Mark</td>
+</tr>
+<tr>
     <td>3pm</td>
     <td>824</td>
     <td>Javier</td>
