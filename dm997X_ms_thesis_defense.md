@@ -48,7 +48,7 @@ See <a href="dm997X_ms_thesis_syllabus.md">syllabus</a> for descriptions of thes
     <td>817</td>
     <td>Zijun</td>
     <td>Jim Lewis</td>
-    <td>Toni</td>
+    <td>Toni Pizza</td>
 </tr>
 <tr>
     <td>1pm</td>
