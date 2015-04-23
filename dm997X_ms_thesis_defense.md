@@ -77,6 +77,13 @@ Your thesis defenses *may* be recorded for documentation for IDM's websites. If 
     <td>Mark</td>
 </tr>
 <tr>
+    <td>3pm</td>
+    <td>817</td>
+    <td>Yizhou</td>
+    <td>Stephen Clark</td>
+    <td>Charles Pratt</td>
+</tr>
+<tr>
     <td colspan="5"><strong>Mon May 11</strong></td>
 </tr>
 <tr>
