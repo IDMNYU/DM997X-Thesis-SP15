@@ -9,7 +9,7 @@
 ---
 
 
-Thesis Defenses will be open to NYU Faculty, Staff, and Students from May 7,8, 11, or 12. Date, Time, and MAGNET Room to be determined.
+Thesis Defenses will be open to NYU Faculty, Staff, and Students. Date, Time, and MAGNET Room to be determined.
 
 The Thesis Defense Panel is comprised of:
 * One or both IDM Co-Directors
@@ -19,8 +19,6 @@ The Thesis Defense Panel is comprised of:
 Your Thesis Peers can also attend your presentation and Q&A.
 
 See <a href="dm997X_ms_thesis_syllabus.md">syllabus</a> for descriptions of these thesis roles.
-
-Your thesis defenses *may* be recorded for documentation for IDM's websites. If you are not comfortable with possibly having your defense documented, let IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, know as soon as possible.
 
 ##THESIS DEFENSE SCHEDULE
 
