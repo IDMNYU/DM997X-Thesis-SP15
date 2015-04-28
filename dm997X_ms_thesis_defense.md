@@ -9,7 +9,7 @@
 ---
 
 
-Thesis Defenses will be open to NYU Faculty<br>Staff<br>and Students. Date<br>Time<br>and MAGNET Room to be determined.
+Thesis Defenses will be open to NYU Faculty, Staff, and Students. Date, Time, and MAGNET Room to be determined.
 
 The Thesis Defense Panel is comprised of:
 * One or both IDM Co-Directors
@@ -88,7 +88,7 @@ See <a href="dm997X_ms_thesis_syllabus.md">syllabus</a> for descriptions of thes
     <td>10am</td>
     <td>811</td>
     <td>Jiani</td>
-    <td>Matthew Hurst<br>Online Marketing and Social Media Strategist<br></td>
+    <td>Matthew Hurst<br>Online Marketing &amp; Social Media Strategist<br></td>
     <td>Mark Skwarek<br>Integrated Digital Media<br>NYU Polytechnic School of Engineering</td>
 </tr>
 <tr>
