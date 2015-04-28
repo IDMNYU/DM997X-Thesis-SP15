@@ -142,7 +142,7 @@ See <a href="dm997X_ms_thesis_syllabus.md">syllabus</a> for descriptions of thes
 </table>
 
 ## BEFORE THE THESIS DEFENSE
-Send IDM's Academic Advisor<br>Eric Maiello eric.maiello@nyu.edu<br>a PDF of your complete thesis paper draft by at least a week before your thesis defense so he can send it to your external examiner. You should also send a copy to your project advisor and thesis instructor by April 27th. You want to make sure that everyone has time to read it and make suggestions on how to make it a stronger thesis. 
+Send IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, a PDF of your complete thesis paper draft by at least a week before your thesis defense so he can send it to your external examiner. You should also send a copy to your project advisor and thesis instructor by April 27th. You want to make sure that everyone has time to read it and make suggestions on how to make it a stronger thesis. 
 
 
 ## AT THE THESIS DEFENSE
@@ -153,11 +153,11 @@ Send IDM's Academic Advisor<br>Eric Maiello eric.maiello@nyu.edu<br>a PDF of you
 
 Bring *3 copies of the signature pages on acid-free paper* (what you will print the final Thesis on) or 4 copies if you want to get a bound copy for yourself to the Defense for signing. Please note that there are two different signature pages.
 
-The first is seen in the [NYU SoE's Thesis guidelines] (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)<br>(also on Masters_Thesis_Project_Guidelines_March2014_version.pdf on basecamp under Files)<br>and contains spacing for:
+The first is seen in the [NYU SoE's Thesis guidelines] (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf), (also on Masters_Thesis_Project_Guidelines_March2014_version.pdf on basecamp under Files), and contains spacing for:
 * Project Advisor (will sign at the end of the thesis defense) 
-* Department Head<br>Jonathan Soffer (IDM's Academic Advisor<br>Eric Maiello eric.maiello@nyu.edu<br>will get the department head's signature once you give him the bound copies)
+* Department Head, Jonathan Soffer (IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, will get the department head's signature once you give him the bound copies)
 
-The second signature page is not in the guidelines. Consult the word template<br>MS_Thesis_Paper_Preliminaries.doc<br>for both signature pages (on basecamp under Files for formatting). This page is dedicated to the Defense Panel<br>and should include spacing for:
+The second signature page is not in the guidelines. Consult the word template,MS_Thesis_Paper_Preliminaries.doc, for both signature pages (on basecamp under Files for formatting). This page is dedicated to the Defense Panel, and should include spacing for:
 * Project Advisor
 * Co-Director (List De Angela L. Duff)
 * External Reviewer
@@ -165,7 +165,7 @@ The second signature page is not in the guidelines. Consult the word template<br
 
 ## AFTER THE THESIS DEFENSE
 
-* If your thesis is approved<br>you will have to bind 3 copies. If you want a bound copy for yourself<br>bind 4. 
+* If your thesis is approved, you will have to bind 3 copies. If you want a bound copy for yourself, bind 4. 
 * It takes a minimum of 5 days to bind. 
 * The place to bind it is within [NYU SoE's Thesis guidelines] (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)<br>(also on Masters_Thesis_Project_Guidelines_March2014_version.pdf on basecamp under Files).
 
