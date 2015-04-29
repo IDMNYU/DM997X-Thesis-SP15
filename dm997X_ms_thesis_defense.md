@@ -71,7 +71,7 @@ See <a href="dm997X_ms_thesis_syllabus.md">syllabus</a> for descriptions of thes
     <td>8:30am</td>
     <td>811</td>
     <td>Diana</td>
-    <td>Joanne Tombrakos<br>Founder<br>Joanne Tombrakos International</td>
+    <td>Grace Kim<br>Occupational Therapist<br>New York-Presbyterian</td>
     <td>S. Alex Ruthmann<br>Music Education &amp; Music Technology<br>NYU Steinhardt</td>
 </tr>
 <tr>
