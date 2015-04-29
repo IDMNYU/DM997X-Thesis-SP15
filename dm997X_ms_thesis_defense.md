@@ -68,6 +68,13 @@ See <a href="dm997X_ms_thesis_syllabus.md">syllabus</a> for descriptions of thes
     <td colspan="5"><strong>Fri May 8</strong></td>
 </tr>
 <tr>
+    <td>8:30am</td>
+    <td>811</td>
+    <td>Diana</td>
+    <td>Joanne Tombrakos<br>Founder<br>Joanne Tombrakos International</td>
+    <td>S. Alex Ruthmann<br>Music Education &amp; Music Technology<br>NYU Steinhardt</td>
+</tr>
+<tr>
     <td>11am</td>
     <td>824</td>
     <td>Julie</td>
