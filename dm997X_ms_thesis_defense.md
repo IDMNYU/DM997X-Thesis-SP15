@@ -106,6 +106,13 @@ See <a href="dm997X_ms_thesis_syllabus.md">syllabus</a> for descriptions of thes
     <td>Kato Hideki<br>Integrated Digital Media<br>NYU Polytechnic School of Engineering</td>
 </tr>
 <tr>
+    <td>2pm</td>
+    <td>811</td>
+    <td>Yang</td>
+    <td>Jody Wood<br>Adjunct Assistant Professor<br>Pace University</td>
+    <td>Beth Rosenberg<br>Integrated Digital Media<br>NYU Polytechnic School of Engineering</td>
+</tr>
+<tr>
     <td>3pm</td>
     <td>811</td>
     <td>Nabil</td>
