@@ -172,9 +172,10 @@ The second signature page is not in the guidelines. Consult the word template,MS
 
 ## AFTER THE THESIS DEFENSE
 
-* If your thesis is approved, you will have to bind 3 copies. If you want a bound copy for yourself, bind 4. 
+* If your thesis is approved, you will have to bind **3 Copies** of Your Thesis Paper on *acid-free paper* due to Eric Maiello. If you want a bound copy for yourself, bind 4.
 * It takes a minimum of 5 days to bind. 
 * The place to bind it is within [NYU SoE's Thesis guidelines] (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)<br>(also on Masters_Thesis_Project_Guidelines_March2014_version.pdf on basecamp under Files).
+* The bound copies are due by the latest on Friday, May 15th to Eric Maiello.
 
 
 
