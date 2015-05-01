@@ -158,7 +158,7 @@ Send IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, a PDF of your co
 * There will be 20 minutes of Q&A.
 * There will be 20 minutes of deliberation by your Thesis Panel.
 
-Bring *3 copies of the signature pages on acid-free paper* (what you will print the final Thesis on) or 4 copies if you want to get a bound copy for yourself to the Defense for signing. Please note that there are two different signature pages.
+**Bring *3 copies of the signature pages on acid-free paper* (what you will print the final Thesis on) or 4 copies if you want to get a bound copy for yourself to the Defense for signing.** Please note that there are two different signature pages.
 
 The first is seen in the [NYU SoE's Thesis guidelines] (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf), (also on Masters_Thesis_Project_Guidelines_March2014_version.pdf on basecamp under Files), and contains spacing for:
 * Project Advisor (will sign at the end of the thesis defense) 
@@ -172,7 +172,8 @@ The second signature page is not in the guidelines. Consult the word template,MS
 
 ## AFTER THE THESIS DEFENSE
 
-* If your thesis is approved, you will have to bind **3 Copies** of Your Thesis Paper on *acid-free paper*. If you want a bound copy for yourself, bind 4.
+* If your thesis is approved, you will have to bind **3 Copies** of Your Thesis Paper on *acid-free paper*. 
+* If you want a bound copy for yourself, bind 4.
 * It takes a minimum of 5 days to bind. 
 * The place to bind it is within [NYU SoE's Thesis guidelines] (http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf)<br>(also on Masters_Thesis_Project_Guidelines_March2014_version.pdf on basecamp under Files).
 * The bound copies are due by the latest on **Friday, May 15th** to Eric Maiello.
