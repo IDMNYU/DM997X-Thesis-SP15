@@ -12,7 +12,7 @@
 NOTE: There are other assignments listed on the [thesis paper] (dm997X_ms_thesis_paper.md) and [thesis project] (dm997X_ms_thesis_project.md) pages. Due dates for the following assignments can be found on the [thesis calendar] (dm997X_ms_thesis_calendar.md).
 
 
-### DELIVERABLES FOR MS THESIS CATALOG / SUPPORTING FILES 
+### DELIVERABLES FOR MS THESIS PROMOTION 
 You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
 
 Each student will provide their own **dropbox link**. A dropbox link is actually different than sharing an actual *dropbox folder*. Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) 
@@ -22,9 +22,12 @@ Create a dropbox link of
   * Title of your project
   * URL to your project website
   * *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
-  * Abstract
+  * (OPTIONAL) quicktime video (for those of you doing video projects or projects that can be documented with video)
+  * Abstract (including thesis statement)
 
-* **all related project files** (e.g. video, HTML files, audio files, etc ) for **gold** version
+
+### END OF SEMESTER PRESENTATION
+* Export as a pdf and post on basecamp 
 
 
 ### PORTFOLIO WEBSITE
@@ -35,6 +38,9 @@ This website should market and promote your body of work for possible employment
 
 
 #### LETTER TO NEXT COHORT   
+
+* Please name your file as yourname_lettertonextcohort_msthesis.pdf
+* Email your letter *as a pdf* to deangela.duff@nyu.edu 
 
 Write a letter to the next class giving them advice on how to succeed with their thesis paper, project, and defense. (What would you do differently if you could start the course again? What would you do the same?)
 
