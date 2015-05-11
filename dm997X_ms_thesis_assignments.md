@@ -20,12 +20,9 @@ Each student will provide their own **dropbox link**. A dropbox link is actually
  
 Create a dropbox link of 
 * **deliverables for the ms thesis promotion &amp; archive**
-  * Title of your project
-  * URL to your project website
+  * Your Final, Final Thesis Paper (after external examiners feedback)
   * *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
   * (OPTIONAL) quicktime video (for those of you doing video projects or projects that can be documented with video)
-  * Abstract (including thesis statement)
-
 
 ### THESIS DEFENSE PRESENTATION
 * Export as a pdf and post on basecamp 
