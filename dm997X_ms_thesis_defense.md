@@ -156,7 +156,7 @@ See <a href="dm997X_ms_thesis_syllabus.md">syllabus</a> for descriptions of thes
 </table>
 
 ## BEFORE THE THESIS DEFENSE
-Send IDM's Academic Advisor, Eric Maiello eric.maiello@nyu.edu, a PDF of your complete thesis paper draft by at least a week before your thesis defense so he can send it to your external examiner. You should also send a copy to your project advisor and thesis instructor by April 27th. You want to make sure that everyone has time to read it and make suggestions on how to make it a stronger thesis. 
+By April 27th, send your project advisor and thesis instructor a PDF of your complete (including preliminaries), compiled thesis paper draft by at least a week before your thesis defense so either your project advisor or thesis instructor can send it to your external examiner. You want to make sure that everyone has time to read it and make suggestions on how to make it a stronger thesis. 
 
 
 ## AT THE THESIS DEFENSE
