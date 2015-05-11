@@ -27,6 +27,12 @@ Create a dropbox link of
 ### END OF SEMESTER PRESENTATION
 * Export as a pdf and post on basecamp 
 
+#### LETTER TO NEXT COHORT   
+
+* Please name your file as yourname_lettertonextcohort_msthesis.pdf
+* Email your letter *as a pdf* to deangela.duff@nyu.edu 
+
+Write a letter to the next class giving them advice on how to succeed with their thesis paper, project, and defense. (What would you do differently if you could start the course again? What would you do the same?)
 
 ### PORTFOLIO WEBSITE
 
@@ -37,12 +43,7 @@ Create a dropbox link of
 This website should market and promote your body of work for possible employment or other post graduation opportunities. This should NOT be hosted on http://sites.bxmc.poly.edu. Ideally, you should have your own domain name.
 
 
-#### LETTER TO NEXT COHORT   
 
-* Please name your file as yourname_lettertonextcohort_msthesis.pdf
-* Email your letter *as a pdf* to deangela.duff@nyu.edu 
-
-Write a letter to the next class giving them advice on how to succeed with their thesis paper, project, and defense. (What would you do differently if you could start the course again? What would you do the same?)
 
 
 
