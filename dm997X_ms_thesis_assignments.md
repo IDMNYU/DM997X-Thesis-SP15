@@ -27,7 +27,7 @@ Create a dropbox link of
 ### END OF SEMESTER PRESENTATION
 * Export as a pdf and post on basecamp 
 
-#### LETTER TO NEXT COHORT   
+### LETTER TO NEXT COHORT   
 
 * Please name your file as yourname_lettertonextcohort_msthesis.pdf
 * Email your letter *as a pdf* to deangela.duff@nyu.edu 
