@@ -19,10 +19,10 @@ You need to create a dropbox account if you have not already done so. Let me kno
 Each student will provide their own **dropbox link**. A dropbox link is actually different than sharing an actual *dropbox folder*. Here’s a how to: https://www.dropbox.com/help/167 (There is also a video explaining how to do it later in the page as well.) 
  
 Create a dropbox link of 
-* **deliverables for the ms thesis promotion &amp; archive**
-  * Your Final, Final Thesis Paper (after external examiners feedback)
+  * Your Final, Final Thesis Paper as a pdf (after external examiners feedback)
   * *at least* 3, hi-res images of your project (RAW preferably or 300dpi)
   * (OPTIONAL) quicktime video (for those of you doing video projects or projects that can be documented with video)
+  * (For Billy Only) mp3s of all the episodes
 
 ### THESIS DEFENSE PRESENTATION
 * Export as a pdf and post on basecamp 
