@@ -10,9 +10,8 @@
 
 ## END OF SEMESTER DELIVERABLES
 
-### EXIT INTERVIEW
+### EXIT INTERVIEW SURVEY
 Please fill out by Monday, May 18th. http://goo.gl/forms/YHLIWeYKbI
-
 
 ### DELIVERABLES FOR MS THESIS PROMOTION & ARCHIVE 
 You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
@@ -34,9 +33,13 @@ Create a dropbox link of
 ### LETTER TO NEXT COHORT   
 
 * Please name your file as yourname_lettertonextcohort_msthesis.pdf
-* Email your letter *as a pdf* to deangela.duff@nyu.edu 
+* Post on basecamp 
 
 Write a letter to the next class giving them advice on how to succeed with their thesis paper, project, and defense. (What would you do differently if you could start the course again? What would you do the same?)
+
+### RESUME
+* Please name your file as yourname_resume.pdf
+* Post on basecamp 
 
 ### PORTFOLIO WEBSITE
 

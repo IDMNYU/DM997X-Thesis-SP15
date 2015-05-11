@@ -219,15 +219,16 @@ Include that person's name [and their title and/or relationship with you (if not
     <td><i>Reading Days for NYU School of Engineering Grad Classes</i></td> 
 </tr>
 <tr>
-    <td>May 15</td>
+    <td>Fri, May 15</td>
     <td><strong>**3 Bound Copies** of Your Thesis Paper on *acid-free paper* due to Eric Maiello. If you want a bound copy for yourself, bind 4. </strong> 
     <ul>
     <li>See instructions on how to get them printed in NYU SoE's Thesis guidelines which you can download from basecamp under <a href="http://engineering.nyu.edu/files/Master's%20Thesis%20and%20Project%20Guidelines_March2014%20version.pdf" target="_blank">Files</a></li>
     </ul></td>
 </tr>
 <tr>
-    <td>May 13-19 TBD</td>
-    <td><strong>Exit Interview:</strong> <a href="dm997X_ms_thesis_assignments.md">Dropbox link of all related project files, Resume, Cover Letter, LinkedIn Profile, Letter to Next Cohort, and Portfolio Website</a></td>
+    <td>May 11-18</td>
+    <td><a href="http://goo.gl/forms/YHLIWeYKbI" target="_blank">Exit Interview Survey</a><br>
+    <a href="dm997X_ms_thesis_assignments.md">Deliverables for MS Thesis Promotion &amp; Archive<br>Thesis Defense Presentation exported as pdf (on basecamp)<br>Letter to Next Cohort<br>Resume as pdf (on basecamp)<br>and Portfolio Website</a></td>
 </tr>
 </table>
 
