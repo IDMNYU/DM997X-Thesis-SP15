@@ -10,6 +10,10 @@
 
 ## END OF SEMESTER DELIVERABLES
 
+### EXIT INTERVIEW
+Please fill out by Monday, May 18th. http://goo.gl/forms/YHLIWeYKbI
+
+
 ### DELIVERABLES FOR MS THESIS PROMOTION & ARCHIVE 
 You need to create a dropbox account if you have not already done so. Let me know if you do not have a dropbox account. Both you and I can get additional space if I invite you.
 
@@ -24,7 +28,7 @@ Create a dropbox link of
   * Abstract (including thesis statement)
 
 
-### END OF SEMESTER PRESENTATION
+### THESIS DEFENSE PRESENTATION
 * Export as a pdf and post on basecamp 
 
 ### LETTER TO NEXT COHORT   
